@@ -1,1 +1,31 @@
-# bot-documentation
+---
+description: >-
+  Welcome to Invite Tracker's documentation. Here you may learn yourself a thing
+  or two about the bot.
+cover: .gitbook/assets/cover (2).jpg
+coverY: 0
+---
+
+# Home
+
+## Introduction
+
+Invite Tracker is a powerful Discord bot that offers countless amounts of features such as invite and message tracking, giveaways and just so much more. It is also capable of welcoming new users to your server with a fully customisable join message feature.
+
+{% hint style="info" %}
+<mark style="color:blue;">Invite Tracker also offers an advanced web dashboard that makes the bot configuration more intuitive and easier. Check it out</mark> [<mark style="color:purple;">here</mark>](https://invite-tracker.com).
+
+<mark style="color:blue;">More information on how to use the dashboard can be found</mark> [<mark style="color:purple;">here</mark>](invite-tracker/dashboard/).
+{% endhint %}
+
+## Getting Started
+
+Firstly, make sure that Invite Tracker is in the server you are looking to use it in. If not, you may invite it by clicking [<mark style="color:purple;">here</mark>](https://invite.invite-tracker.com/).
+
+Invite Tracker is by default only asking for the permissions required for it to work, we highly recommend you to make sure you are inviting it with the required permissions, otherwise, the bot may not work properly. If you want to know more details about why we are asking for specific permissions, read the [<mark style="color:purple;">FAQ</mark>](faq.md).
+
+## Configuration
+
+Once Invite Tracker has been invited on your server, if you invited it with the required permissions, it will already be tracking new invites!
+
+If you are wanting to jump right into having Invite Tracker announce new members, you would want to check out Invite Tracker's [_<mark style="color:purple;">join, join DM and leave message</mark>_](invite-tracker/dashboard/join-join-dm-and-leave-messages/) features.
