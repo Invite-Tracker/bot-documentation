@@ -8,7 +8,7 @@ description: Frequently asked questions regarding Invite Tracker.
 
 Invite Tracker's prefix is `/`.
 
-Due to Discord changing the way all verified bots are required to work, the default prefix for Invite Tracker is no longer `-`. Slash commands are a new, handy way of using bot commands, and we are excited to discover new ways to use them. You can still change the old prefix of Invite Tracker over in [<mark style="color:purple;">A</mark>_<mark style="color:purple;">dministration</mark>_](invite-tracker/dashboard/administration.md), but no commands will work when trying to use prefix commands.
+Due to Discord changing the prefixes, the forward slash will be the prefix used. This cannot be changed due to Discords' newer system.
 
 ## Why is Invite Tracker not responding to my commands?
 
@@ -22,9 +22,17 @@ Lastly, if Invite Tracker is not responding to a mention, please make sure Invit
 
 This feature has sadly been disabled due to it being against Discord's Developer Terms of Service. Having any features that include rewarding invites just enables server advertisement in servers and direct messages. This is something Discord views as unsolicited advertisement, which is exactly what breaks the Discord Developer Policy.
 
+{% hint style="info" %}
+<mark style="color:blue;">Invite requirements for giveaways is also disabled due to being against Discord's Developer Terms of Service for the same reason as invite roles.</mark>
+{% endhint %}
+
+## What is the required permission to access the dashboard?
+
+In order for your administrators or moderators to access Invite Trackers dashboard they will need the _Manage Server_ permission enabled on their role.
+
 ## What are the required permissions for Invite Tracker?
 
-All of Invite Tracker's required permissions are required for a reason, so please do be careful on what permissions you remove. If you do start to remove permissions, you have a high likelihood of rendering some of Invite Tracker's features useless.
+All of Invite Tracker's required permissions are required for a reason, so please be careful about what permissions you remove. If you do start to remove permissions, you have a high likelihood of rendering some of Invite Tracker's features useless.
 
 | Permission             | Usage                                                                                       |
 | ---------------------- | ------------------------------------------------------------------------------------------- |

@@ -16,15 +16,15 @@ The Status page can be found either by accessing the [<mark style="color:purple;
 
 ### Where's My Guild?
 
-To find out which cluster your server is in, copy and paste your server's ID into the text box labelled "Guild ID". After clicking the blue button named "Calculate", the website should display which cluster and shard your server is located in.
+To find out which cluster your server is in, copy and paste your server's ID into the text box labeled "Guild ID". After clicking the blue button named "Calculate", the website should display which cluster and shard your server is located in.
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/FindGuild (1).png>)
 
 ### Invite Tracker Status
 
 Once you have the cluster and shard numbers, head down to the bottom part of the page. Here you will see a bunch of boxes with different numbers in them. Every box represents a cluster. Take the cluster number your server is located in and click the box with the same number. A menu should appear revealing all the shards located within that cluster. Then using the shard number that you got, locate your server's shard. From here you can check the ping of your server's shard.
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/Status.png)
 
 {% hint style="info" %}
 <mark style="color:blue;">If a cluster is colored</mark> <mark style="color:green;">green</mark><mark style="color:blue;">, it means that the cluster is operational and has stable ping throughout all of the shards. Invite Tracker is fully functional.</mark>

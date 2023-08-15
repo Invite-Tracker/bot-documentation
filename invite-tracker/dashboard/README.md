@@ -20,7 +20,7 @@ Found it! Here it is:
 
 To access the dashboard of your server, simply follow the steps in the gif below.
 
-![](https://imgur.com/8UNfhKx.gif)
+![](../../.gitbook/assets/ezgif.com-video-to-gif.gif)
 
 {% hint style="info" %}
 <mark style="color:blue;">When clicking</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Login**</mark><mark style="color:blue;">, you will be prompted with a login screen. Please log in using your Discord account.</mark>

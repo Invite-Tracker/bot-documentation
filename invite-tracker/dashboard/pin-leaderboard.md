@@ -11,7 +11,7 @@ description: >-
 
 This feature sends an automatically updating invite leaderboard to the selected channel.
 
-![](<../../.gitbook/assets/image (117).png>)
+![](<../../.gitbook/assets/Invites Leaderboard.png>)
 
 After we press save, Invite Tracker will instantly create and pin an invite leaderboard in the specified channel.
 
@@ -21,7 +21,7 @@ After we press save, Invite Tracker will instantly create and pin an invite lead
 
 This feature sends an automatically updating message leaderboard to the selected channel.
 
-![](<../../.gitbook/assets/image (49).png>)
+![](<../../.gitbook/assets/Messages Leaderboard.png>)
 
 After we press save, Invite Tracker will instantly create and pin an invite leaderboard in the specified channel.
 

@@ -6,7 +6,7 @@ description: Just a little bit of important information regarding the documentat
 
 ## Developer Mode
 
-Developer Mode is a useful utility tool offered by Discord. Some of Invite Tracker's features requires Developer Mode. Developer Mode lets you acquire and copy IDs for things such as users and channels. To enable Developer Mode, follow the steps underneath.
+Developer Mode is a useful utility tool offered by Discord. Some of Invite Tracker's features require Developer Mode. Developer Mode lets you acquire and copy IDs for things such as users and channels. To enable Developer Mode, follow the steps underneath.
 
 ### Enabling Developer Mode
 
@@ -14,7 +14,7 @@ Developer Mode is a useful utility tool offered by Discord. Some of Invite Track
 
 ## Copying IDs
 
-IDs are special "codes" that are different for all users, channels and messages. An ID of something is what most bots use to find and locate that specific user, message, channel, role or server. Invite Tracker has a few features where IDs are necessary. If you want to know how to copy the different main ID types, please keep reading. Remember to have turned Developer Mode on, or else copying IDs will not be possible.
+IDs are special "codes" that are different for all users, channels, and messages. An ID of something is what most bots use to find and locate that specific user, message, channel, role, or server. Invite Tracker has a few features where IDs are necessary. If you want to know how to copy the different main ID types, please keep reading. Remember to have turned Developer Mode on, or else copying IDs will not be possible.
 
 ### Copying a Channel ID
 
@@ -32,7 +32,7 @@ IDs are special "codes" that are different for all users, channels and messages.
 
 ### Characters/Symbols
 
-Throughout this documentation, we will be using special characters to represent specific uses for a command. You may already have noticed a few of these characters if you have previously used Invite Tracker's commands. This is the meaning behind each one.
+Throughout this documentation, we will use special characters to represent specific uses for a command. You may have noticed a few of these characters if you have previously used Invite Tracker's commands. This is the meaning behind each one.
 
 `< >` - These arguments are required and have to be added. (Do not add the `< >` brackets)\
 `[ ]` - These arguments are optional and may not be added. (Do not add the `[ ]` brackets)\
@@ -41,7 +41,7 @@ Throughout this documentation, we will be using special characters to represent 
 
 ### Color Codes/Fonts
 
-There are different colours and fonts that are used throughout this documentation, all of which mean different things. This is what all the different colors and fonts mean.
+There are different colors and fonts that are used throughout this documentation, all of which mean different things. This is what all the different colors and fonts mean.
 
 #### General
 
@@ -56,7 +56,7 @@ There are different colours and fonts that are used throughout this documentatio
 {% endhint %}
 
 {% hint style="success" %}
-<mark style="color:green;">General hints, tips and tricks regarding a specific feature.</mark>
+<mark style="color:green;">General hints, tips, and tricks regarding a specific feature.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
