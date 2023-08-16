@@ -1,6 +1,6 @@
 ---
 description: >-
-  These plugins let you create highly customisable join, join DM and leave
+  These plugins let you create highly customizable join, join DM and leave
   messages.
 ---
 
@@ -47,7 +47,7 @@ Take to mind that the only emojis that appear in the emoji keyboard are the ones
 
 ### Configuring a Channel
 
-The first thing you would want to do is select the channel you want your message to be sent in. As you can see, we have configured our message to be sent to one of our test channels called "test-welcome".
+The first thing you would want to do is select the channel you want your message to be sent in.
 
 ![](<../../../.gitbook/assets/Join Channel.png>)
 
@@ -57,7 +57,7 @@ The first thing you would want to do is select the channel you want your message
 
 ### Configuring a Sub-Message Type
 
-After you have chosen a channel, continue down to the **Messages** section of the page. You should see three boxes: one blue button, one small, black box, and one large black text box. The first one is set to **Normal** by default, but you may change this if you are looking to edit another message type.
+After you have chosen a channel, continue down to the **Messages** section of the page. You should see three boxes: one blue button, one small black box, and one large black text box. The first one is set to **Normal** by default, but you may change this if you are looking to edit another message type.
 
 There is automatically a join message set by default that can be used as shown below.
 
@@ -139,12 +139,13 @@ Now that you have a general idea of how the embed looks and what goes where we c
 
 * **Display Current Message Date** will show at what time the message was sent.
 * **Color Picker** will change the colour of the embed line. Default is grey.
+* **Random Color** will be a random embed color when the message is displayed.
 
 Now, if we take everything we now know about embeds, we can make a simple embed message that looks like this:
 
 ![](../../../.gitbook/assets/EmbedMessage.png)
 
-Now if we click the T**est message** button, we get this message:
+Now if we click the **Test message** button, we get this message:
 
 ![](<../../../.gitbook/assets/EmbedTest (1).png>)
 

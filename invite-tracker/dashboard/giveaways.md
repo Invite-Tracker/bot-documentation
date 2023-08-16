@@ -44,7 +44,7 @@ At first glance, it might look like a lot of very complicated stuff but do not w
 {% hint style="warning" %}
 <mark style="color:orange;">The maximum length of your prize name is only 190 characters.</mark>
 
-<mark style="color:orange;">The maximum amount of winners you can have is 20.</mark>
+<mark style="color:orange;">The maximum amount of winners you can have without premium is 20 and with premium is 100.</mark>
 {% endhint %}
 
 ### End Date
@@ -61,7 +61,7 @@ The second box is where you configure at what time you want the giveaway to end.
 
 ### Role Assignment
 
-* **Required Roles** are roles that are needed to join a giveaway. If you do not have all the required roles and you try to join the giveaway, your reaction will automatically be removed.
+* **Required Roles** are roles that are needed to join a giveaway. If you do not have all the required roles and you try to join the giveaway, you will not be able to enter.
 * **Bonus Entry Roles** are all awarded a specified amount of bonus entries to the giveaway. Users with these roles have an increased chance of winning the giveaway.
 * <img src="../../.gitbook/assets/image (29).png" alt="" data-size="line"> **Winner Roles** are roles that are given to the winner(s) of the giveaway.
 
@@ -82,7 +82,7 @@ Required messages are pretty self-explanatory. In order to join the giveaway, yo
 ![](../../.gitbook/assets/Giveaway4.png)
 
 {% hint style="warning" %}
-<mark style="color:orange;">Only numbers can go here to set the number of messages you are wanting to require to be able to enter the giveaway. If the number of messages required is not met it will remove the users' reaction automatically.</mark>
+<mark style="color:orange;">Only numbers can go here to set the number of messages you are wanting to require to be able to enter the giveaway. If the number of messages required is not met it will not allow you to enter the giveaway.</mark>
 {% endhint %}
 
 ### An example of a Giveaway
@@ -101,7 +101,7 @@ Now that we have an active giveaway, we can go back to the dashboard and see tha
 
 ## <img src="../../.gitbook/assets/image (57).png" alt="" data-size="line"> Editing a Giveaway
 
-To edit a giveaway, just click the blue _**Blue Pencil**_ button. This will show almost the exact same menu as the giveaway creation menu.
+To edit a giveaway, just click the _**Blue Pencil**_ button. This will show almost the exact same menu as the giveaway creation menu.
 
 ![](<../../.gitbook/assets/Edit Giveaway.png>)
 

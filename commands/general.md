@@ -16,13 +16,13 @@ description: The explanation for all the general commands available for Invite T
 
 ## Invites
 
-| Command                                                                                                      | Description                                                                            |
-| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| `/findlink [mobile_mode: <True\|False>]`                                                                     | Displays the invite link you own which is located the highest in the guild settings    |
-| <img src="../.gitbook/assets/premium.png" alt="" data-size="line">`/invitecodes` `[@user]`                   | Displays all of your, or the specified member's, invite codes                          |
-| <img src="../.gitbook/assets/premium.png" alt="" data-size="line">`/invitedlist <@user\|@role\|invite code>` | Displays a list of users who were invited via you, the specified member or invite link |
-| <img src="../.gitbook/assets/premium.png" alt="" data-size="line">`/inviter <@user>`                         | Displays who invited the specified member                                              |
-| `/invites [@user]`                                                                                           | Displays the number of invites you or the specified member has                         |
+| Command                                                                                               | Description                                                                             |
+| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| `/findlink [mobile_mode: <True\|False>]`                                                              | Displays the invite link you own which is located the highest in the guild settings     |
+| <img src="../.gitbook/assets/premium.png" alt="" data-size="line">`/invitecodes` `[@user]`            | Displays all of your, or the specified member's, invite codes                           |
+| <img src="../.gitbook/assets/premium.png" alt="" data-size="line">`/invitedlist <@user\|invite code>` | Displays a list of users who were invited via you, the specified member, or invite link |
+| <img src="../.gitbook/assets/premium.png" alt="" data-size="line">`/inviter <@user>`                  | Displays who invited the specified member                                               |
+| `/invites [@user]`                                                                                    | Displays the number of invites you or the specified member has                          |
 
 ## Links
 
@@ -43,7 +43,8 @@ description: The explanation for all the general commands available for Invite T
 
 ## Statistics
 
-| Command                            | Description                                         |
-| ---------------------------------- | --------------------------------------------------- |
-| `/leaderboard <invites\|messages>` | Displays the server's invite or message leaderboard |
-| `/stats <joins\|leave>`            | Displays the server's join statistics via a graph   |
+| Command                                                 | Description                                                                                                                     |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| `/leaderboard invites [type<all time\|daily\|weekly>]`  | Displays the server's invite leaderboard. You can also choose a type to display a leaderboard for all time, daily, and weekly.  |
+| `/leaderboard messages [type<all time\|daily\|weekly>]` | Displays the server's message leaderboard. You can also choose a type to display a leaderboard for all time, daily, and weekly. |
+| `/stats <joins\|leaves>`                                | Displays the server's join statistics via a graph                                                                               |

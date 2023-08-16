@@ -29,7 +29,7 @@ For example, if a user sends a message which Invite Tracker counts and the _mess
 
 ## Messages Channel Blacklist
 
-This is where you message-blacklist channels. Messages sent by users in a blacklisted channel will not be counted towards their total amount of messages sent.
+This is where you can blacklist a channel from having messages counted. Messages sent by users in a blacklisted channel will not be counted towards their total amount of messages sent.
 
 ![](<../../.gitbook/assets/Mchannel Blacklist.png>)
 
@@ -45,7 +45,7 @@ This is where you message-blacklist channels. Messages sent by users in a blackl
 
 ## User Messages Blacklist
 
-This is where you message-blacklist members using their user IDs. Messages sent by message-blacklisted users are not tracked by Invite Tracker and they do not gain any messages.
+This is where you can blacklist members from having their messages counted by using their user IDs. Messages sent by message-blacklisted users are not tracked by Invite Tracker and they do not gain any messages.
 
 ![](<../../.gitbook/assets/Umessage Blacklist.png>)
 
