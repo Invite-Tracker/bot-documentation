@@ -23,6 +23,7 @@
 
 * [Administration](commands/administration.md)
 * [General](commands/general.md)
+* [Giveaway](commands/giveaway.md)
 * [Management](commands/management.md)
 * [Premium](commands/premium.md)
 * [Verification](commands/verification.md)
