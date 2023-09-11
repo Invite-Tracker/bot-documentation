@@ -33,7 +33,7 @@
 * [Add Invite Tracker](https://invite.invite-tracker.com/)
 * [Bot Status](https://invite-tracker.com/status)
 * [Dashboard](https://invite-tracker.com/)
-* [Premium](https://discord.com/application-directory/720351927581278219/premium)
+* [Premium](https://invite-tracker.com/premium)
 * [Vote](https://top.gg/bot/720351927581278219/vote)
 
 ## ✉ Contact Us <a href="#contact" id="contact"></a>
