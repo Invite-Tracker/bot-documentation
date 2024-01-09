@@ -25,3 +25,7 @@ Automatic roles are automatically assigned to every new member.
 
 <mark style="color:blue;">Premium servers can have an unlimited amount of auto roles.</mark>
 {% endhint %}
+
+{% hint style="warning" %}
+<mark style="color:orange;">When configuring Auto Role in your server, make sure the Invite Tracker bot role is above the role you want to give.</mark>
+{% endhint %}

@@ -82,7 +82,7 @@ Required messages are pretty self-explanatory. In order to join the giveaway, yo
 ![](../../.gitbook/assets/Giveaway4.png)
 
 {% hint style="warning" %}
-<mark style="color:orange;">Only numbers can go here to set the number of messages you are wanting to require to be able to enter the giveaway. If the number of messages required is not met it will not allow you to enter the giveaway.</mark>
+<mark style="color:orange;">Only numbers can go here to set the number of messages you want to require to be able to enter the giveaway. If the number of messages required is not met it will not allow you to enter the giveaway.</mark>
 {% endhint %}
 
 ### An example of a Giveaway
@@ -114,5 +114,3 @@ For our giveaway, we will increase the required number of messages up to 50 from
 Now you can just go ahead and click _**Edit giveaway**_. Now if you check your server, you will be able to see that the giveaway has changed.
 
 ![](<../../.gitbook/assets/Edited Giveaway.png>)
-
-Do not worry if people who do not meet the new requirements reacted before you edited the giveaway as the bot checks each user to see if they meet the requirements when choosing a winner.

@@ -19,7 +19,7 @@ After we press save, Invite Tracker will instantly create and pin an invite lead
 
 ## <img src="../../.gitbook/assets/premium.png" alt="" data-size="line"> Message Leaderboard
 
-This feature sends an automatically updating message leaderboard to the selected channel.
+This feature sends an automatic updating message leaderboard to the selected channel.
 
 ![](<../../.gitbook/assets/Messages Leaderboard.png>)
 

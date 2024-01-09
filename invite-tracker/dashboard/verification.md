@@ -24,7 +24,7 @@ There are 4 verification levels:
 </div>
 
 {% hint style="info" %}
-<mark style="color:blue;">Selecting the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Button**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">option will cause a new, blue bar to appear. Clicking this will cause Invite Tracker to attempt to send a verification button to your server's</mark> [_<mark style="color:purple;">verification channel</mark>_](verification.md#verification-channel)<mark style="color:blue;">.</mark> <mark style="color:blue;"></mark><mark style="color:blue;">If Invite Tracker fails, please grant it the required permissions for that channel.</mark>
+<mark style="color:blue;">Selecting the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Button**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">option will cause a new, blue bar to appear. Clicking this will cause Invite Tracker to attempt to send a verification button to your server's</mark> [_<mark style="color:purple;">verification channel</mark>_](verification.md#verification-channel)<mark style="color:blue;">. If Invite Tracker fails, please grant it the required permissions for that channel.</mark>
 {% endhint %}
 
 {% hint style="success" %}
@@ -70,6 +70,10 @@ The _verification role_ of your server is the role that is granted to the user a
 
 ![](<../../.gitbook/assets/Verification Role.png>)
 
+{% hint style="warning" %}
+<mark style="color:orange;">When configuring the Verification Role in your server, make sure the Invite Tracker bot role is above the role you want to give.</mark>
+{% endhint %}
+
 ## Verification Channel
 
 The _verification channel_ of your server is the channel where the verification message will be sent if the new member has their DMs closed.
@@ -82,7 +86,7 @@ The _verification channel_ of your server is the channel where the verification 
 
 ## Verification Logs
 
-_Verification_ _logs_ are messages sent by Invite Tracker to a specific channel that notify you whether new members managed to verify, fail the verification, or did not verify within the _verification timeout_.
+_Verification_ _logs_ are messages sent by Invite Tracker to a specific channel that notify you whether new members managed to verify, failed the verification, or did not verify within the _verification timeout_.
 
 ![](<../../.gitbook/assets/Verification Logs.png>)
 
