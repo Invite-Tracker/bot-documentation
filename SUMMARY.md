@@ -7,7 +7,7 @@
 ## 🌐 Website <a href="#invite-tracker" id="invite-tracker"></a>
 
 * [Dashboard](invite-tracker/dashboard/README.md)
-  * [⚙ Administration](invite-tracker/dashboard/administration.md)
+  * [⚙️ Administration](invite-tracker/dashboard/administration.md)
   * [🔒 Verification](invite-tracker/dashboard/verification.md)
   * [📊 Invite Tracking](invite-tracker/dashboard/invite-tracking.md)
   * [💬 Message Counting](invite-tracker/dashboard/message-counting.md)
@@ -36,6 +36,6 @@
 * [Premium](https://invite-tracker.com/premium)
 * [Vote](https://top.gg/bot/720351927581278219/vote)
 
-## ✉ Contact Us <a href="#contact" id="contact"></a>
+## ✉️ Contact Us <a href="#contact" id="contact"></a>
 
 * [Discord Support Server](https://discord.gg/8RwBGuf)

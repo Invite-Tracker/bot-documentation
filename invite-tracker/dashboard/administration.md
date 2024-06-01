@@ -4,7 +4,7 @@ description: >-
   server settings.
 ---
 
-# ⚙ Administration
+# ⚙️ Administration
 
 ## Auto Roles
 
@@ -27,5 +27,5 @@ Automatic roles are automatically assigned to every new member.
 {% endhint %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">When configuring Auto Role in your server, make sure the Invite Tracker bot role is above the role you want to give.</mark>
+<mark style="color:orange;">When configuring Auto Roles in your server, make sure the Invite Tracker bot role is above the role you want to give.</mark>
 {% endhint %}

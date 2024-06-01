@@ -84,6 +84,14 @@ The _verification channel_ of your server is the channel where the verification 
 <mark style="color:orange;">Remember to give Invite Tracker enough permissions so it can post verification messages.</mark>
 {% endhint %}
 
+## <img src="../../.gitbook/assets/premium.png" alt="" data-size="line"> Verification Custom Embed
+
+_Verification Custom Embeds_ allow you to customize the embed for the button [verification level](verification.md#verification-level) option.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Once enabled, you can customize what the embed looks like. The new embed is sent out when you click on the _Send Verification Panel_ button.
+
 ## Verification Logs
 
 _Verification_ _logs_ are messages sent by Invite Tracker to a specific channel that notify you whether new members managed to verify, failed the verification, or did not verify within the _verification timeout_.
