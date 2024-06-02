@@ -42,7 +42,7 @@ The _verification timeout_ of your server is the number of seconds that need to 
 {% endhint %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">A server's</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">verification timeout</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">must be between 15 and 900 seconds.</mark>
+<mark style="color:orange;">A server's</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">verification timeout</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">must be between 15 and 1800 seconds.</mark>
 {% endhint %}
 
 ## Verification Action
@@ -86,7 +86,7 @@ The _verification channel_ of your server is the channel where the verification 
 
 ## <img src="../../.gitbook/assets/premium.png" alt="" data-size="line"> Verification Custom Embed
 
-_Verification Custom Embeds_ allow you to customize the embed for the button [verification level](verification.md#verification-level) option.
+_Verification Custom Embed_ allows you to customize the embed for the button [verification level](verification.md#verification-level) option.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

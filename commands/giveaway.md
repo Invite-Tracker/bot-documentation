@@ -6,7 +6,7 @@ description: The explanation for the giveaway command for Invite Tracker.
 
 ## Commands
 
-<table><thead><tr><th width="342.3896176132662">Command</th><th>Description</th></tr></thead><tbody><tr><td><code>/giveaway create &#x3C;prize name> &#x3C;duration> &#x3C;winner amount> &#x3C;#channel></code></td><td>Creates a giveaway using the specified information</td></tr><tr><td><code>/giveaway delete &#x3C;message id></code></td><td>Deletes a specified giveaway</td></tr><tr><td><code>/giveaway end &#x3C;message id></code></td><td>Ends a specified giveaway</td></tr><tr><td><code>/giveaway list</code></td><td>Lists all of the server's currently active giveaways</td></tr><tr><td><code>/giveaway reroll &#x3C;message id></code></td><td>Chooses new winners for the specified giveaway</td></tr></tbody></table>
+<table><thead><tr><th width="342.3896176132662">Command</th><th>Description</th></tr></thead><tbody><tr><td><code>/giveaway create &#x3C;prize name> &#x3C;duration> &#x3C;winner amount> &#x3C;#channel></code></td><td>Creates a giveaway using the specified information</td></tr><tr><td><code>/giveaway delete &#x3C;message id></code></td><td>Deletes a specified giveaway</td></tr><tr><td><code>/giveaway end &#x3C;message id></code></td><td>Ends a specified giveaway</td></tr><tr><td><code>/giveaway list</code></td><td>Lists all of the server's currently active giveaways and their message id's</td></tr><tr><td><code>/giveaway reroll &#x3C;message id></code></td><td>Chooses new winners for the specified giveaway</td></tr></tbody></table>
 
 {% hint style="info" %}
 <mark style="color:blue;">When ending a giveaway, Invite Tracker will choose winners.</mark>&#x20;

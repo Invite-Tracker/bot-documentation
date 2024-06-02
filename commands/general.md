@@ -6,13 +6,13 @@ description: The explanation for all the general commands available for Invite T
 
 ## Information
 
-| Command             | Description                                                 |
-| ------------------- | ----------------------------------------------------------- |
-| `/about`            | Displays information about Invite Tracker                   |
-| `/roleinfo <@role>` | Displays information about a specified role                 |
-| `/serverinfo`       | Displays information about the server                       |
-| `/userinfo [@user]` | Displays information about yourself or the specified member |
-| `/ping`             | Displays the bot's latency                                  |
+| Command             | Description                                               |
+| ------------------- | --------------------------------------------------------- |
+| `/about`            | Displays information about Invite Tracker                 |
+| `/roleinfo <@role>` | Displays information about a specified role               |
+| `/serverinfo`       | Displays information about the server                     |
+| `/userinfo [@user]` | Displays information about yourself or a specified member |
+| `/ping`             | Displays the bot's latency                                |
 
 ## Invites
 
@@ -43,8 +43,8 @@ description: The explanation for all the general commands available for Invite T
 
 ## Statistics
 
-| Command                                                 | Description                                                                                                                     |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| `/leaderboard invites [type<all time\|daily\|weekly>]`  | Displays the server's invite leaderboard. You can also choose a type to display a leaderboard for all time, daily, and weekly.  |
-| `/leaderboard messages [type<all time\|daily\|weekly>]` | Displays the server's message leaderboard. You can also choose a type to display a leaderboard for all time, daily, and weekly. |
-| `/stats <joins\|leaves>`                                | Displays the server's join statistics via a graph                                                                               |
+| Command                                                         | Description                                                                                                                     |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| `/leaderboard invites [type<all time\|daily\|weekly>] [@role]`  | Displays the server's invite leaderboard. You can also choose a type to display a leaderboard for all time, daily, and weekly.  |
+| `/leaderboard messages [type<all time\|daily\|weekly>] [@role]` | Displays the server's message leaderboard. You can also choose a type to display a leaderboard for all time, daily, and weekly. |
+| `/stats <joins\|leaves>`                                        | Displays the server's join statistics via a graph                                                                               |

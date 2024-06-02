@@ -22,18 +22,17 @@ description: The explanation for all the management commands available for Invit
 
 ### Invites
 
-| Command                               | Description                                                                                                                                                           |
-| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `/addinvites <@user> <amount>`        | Adds the specified amount of invites to the specified member                                                                                                          |
-| `/removeinvites <@user> <amount>`     | Removes the specified amount of invites from the specified member                                                                                                     |
-| `/resetinvites <@user\|role\|target>` | Resets all invites for the specified member, for all members with a specific role, or target to reset invites for the entire server or all the members who have left. |
+| Command                           | Description                                                                                                                     |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| `/addinvites <@user> <amount>`    | Adds the specified amount of invites to the specified member                                                                    |
+| `/removeinvites <@user> <amount>` | Removes the specified amount of invites from the specified member                                                               |
+| `/resetinvites <@user\|target>`   | Resets all invites for the specified member, or target to reset invites for the entire server or all the members who have left. |
 
 ## Message Management
 
 ### Messages
 
-| Command                             | Description                                                                                                                                                             |
-| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `/addmessages <@user> <amount>`     | Adds the specified amount of messages to the specified member                                                                                                           |
-| `/removemessages <@user> <amount>`  | Removes the specified amount of messages from the specified member                                                                                                      |
-| `/resetmessages <@user\|left\|all>` | Resets all messages for the specified member, for all members with a specific role, or target to reset messages for the entire server or all the members who have left. |
+| `/addmessages <@user> <amount>`        | Adds the specified amount of messages to the specified member                                                                                                           |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `/removemessages <@user> <amount>`     | Removes the specified amount of messages from the specified member                                                                                                      |
+| `/resetmessages <@user\|role\|target>` | Resets all messages for the specified member, for all members with a specific role, or target to reset messages for the entire server or all the members who have left. |
