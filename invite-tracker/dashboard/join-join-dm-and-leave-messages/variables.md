@@ -11,7 +11,7 @@ description: >-
 
 | Variable                  | Description                                 | Where to use               |
 | ------------------------- | ------------------------------------------- | -------------------------- |
-| %member%                  | Member's name and discriminator             | `JOIN`, `LEAVE`, `JOIN DM` |
+| %member%                  | Member's global username.                   | `JOIN`, `LEAVE`, `JOIN DM` |
 | %member\_name%            | Member's name                               | `JOIN`, `LEAVE`, `JOIN DM` |
 | %member\_discriminator%   | Member's discriminator                      | `JOIN`, `LEAVE`, `JOIN DM` |
 | %member\_mention%         | Mention the member                          | `JOIN`, `LEAVE`, `JOIN DM` |
@@ -23,7 +23,7 @@ description: >-
 | %member\_joined\_ago%     | How long ago the member joined the server   | `LEAVE`                    |
 | %member\_join\_count%     | How many times the member joined the server | `JOIN`, `LEAVE`, `JOIN DM` |
 | %member\_leave\_count%    | How many times the member left the server   | `JOIN`, `LEAVE`, `JOIN DM` |
-| %inviter%                 | Inviter's name and discriminator            | `JOIN`, `LEAVE`, `JOIN DM` |
+| %inviter%                 | Inviter's global username.                  | `JOIN`, `LEAVE`, `JOIN DM` |
 | %inviter\_name%           | Inviter's name                              | `JOIN`, `LEAVE`, `JOIN DM` |
 | %inviter\_discriminator%  | Inviter's discriminator                     | `JOIN`, `LEAVE`, `JOIN DM` |
 | %inviter\_mention%        | Inviter's mention                           | `JOIN`, `LEAVE`, `JOIN DM` |
