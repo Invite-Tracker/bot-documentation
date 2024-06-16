@@ -8,7 +8,7 @@ description: Frequently asked questions regarding Invite Tracker.
 
 Invite Tracker's prefix is `/`.
 
-Due to Discord changing the prefixes, the forward slash will be the prefix used. This cannot be changed due to Discords' newer system.
+Due to Discord changing the prefixes, the forward slash will be the prefix used. This cannot be changed due to Discord's newer system.
 
 ## Why is Invite Tracker not responding to my commands?
 
@@ -28,7 +28,7 @@ This feature has sadly been disabled due to it being against Discord's Developer
 
 ## What is the required permission to access the dashboard?
 
-In order for your administrators or moderators to access Invite Trackers dashboard they will need the _Manage Server_ permission enabled on their role.
+In order for your administrators or moderators to access Invite Trackers dashboard they will need the _Manage Server_ or _Administrator_ permission enabled on their role.
 
 ## What are the required permissions for Invite Tracker?
 

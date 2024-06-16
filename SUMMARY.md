@@ -16,6 +16,8 @@
   * [👋 Join, Join DM, and Leave Messages](invite-tracker/dashboard/join-join-dm-and-leave-messages/README.md)
     * [Variables](invite-tracker/dashboard/join-join-dm-and-leave-messages/variables.md)
     * [Types](invite-tracker/dashboard/join-join-dm-and-leave-messages/types.md)
+  * [🤖 Custom Bot](invite-tracker/dashboard/custom-bot.md)
+  * [👤 My Account](invite-tracker/dashboard/my-account.md)
 * [Premium](invite-tracker/premium.md)
 * [Status](invite-tracker/status.md)
 
