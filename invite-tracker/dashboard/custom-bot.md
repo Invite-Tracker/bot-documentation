@@ -1,7 +1,5 @@
 ---
-description: >-
-  Custom Bot's let you run an instance of Invite Tracker on your own
-  application.
+description: Custom Bots let you run an instance of Invite Tracker on your own application.
 ---
 
 # 🤖 Custom Bot
@@ -10,11 +8,11 @@ description: >-
 This feature requires the **Custom Bot** tier of Invite Tracker Premium. You can purchase it [here](https://invite-tracker.com/premium) and read about all it's perks.
 {% endhint %}
 
-If you have the applicable subscription already, let's get started with making an application for Invite Tracker on. You may [skip](custom-bot.md#embed-color) this part if you already know what you're doing.
+If you have the applicable subscription already, let's get started with making an application for Invite Tracker to run on. You may [skip](custom-bot.md#embed-color) this part if you already know what you're doing.
 
 ## Creating an Application
 
-Let's start by heading over to the [Discord Developer Portal](https://discord.com/developers/applications). Make sure you're logged into the desired account and click the button _**New Application**_ at the top right of the page, beside your avatar.
+Let's start by heading over to the [Discord Developer Portal](https://discord.com/developers/applications). Make sure you're logged into the desired account and click the button _**New Application**_ at the top right of the page below your avatar.
 
 <figure><img src="../../.gitbook/assets/devappi1.png" alt=""><figcaption></figcaption></figure>
 

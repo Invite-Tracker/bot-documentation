@@ -27,5 +27,5 @@ Below is a list of your current subscriptions and their platform. The sections a
 <figure><img src="../../.gitbook/assets/myacc3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-You can only move/remove subscriptions with the Dashboard platform. To move/remove subscriptions with the Discord platform, you need to cancel the subscription and resubscribe with the desired server, click [here ](https://support.discord.com/hc/en-us/articles/9359445233303-Premium-App-FAQ#h\_01HW8TY8QFZKNGT5SSSNEGWEEJ)to find out how.
+You can only move/remove subscriptions with the Dashboard platform. To move/remove subscriptions with the Discord platform, you need to cancel the subscription and resubscribe with the desired server. Click [here ](https://support.discord.com/hc/en-us/articles/9359445233303-Premium-App-FAQ#h\_01HW8TY8QFZKNGT5SSSNEGWEEJ)to find out how.
 {% endhint %}
