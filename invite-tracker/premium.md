@@ -20,6 +20,10 @@ Curious about what features get unlocked, what limits get raised, and how to buy
 
 {% embed url="https://invite-tracker.com/premium" %}
 
+## How do I manage my premium subscription?
+
+Users can manage their dashboard subscriptions from the new My Account page. Click [here](dashboard/my-account.md) to see how it works.
+
 ## More questions?
 
 Check out our Frequently Asked Questions page by clicking [here](https://invite-tracker.com/premium/#faq).

@@ -30,19 +30,24 @@ This feature has sadly been disabled due to it being against Discord's Developer
 
 In order for your administrators or moderators to access Invite Trackers dashboard they will need the _Manage Server_ or _Administrator_ permission enabled on their role.
 
+## How do I manage my premium subscription?
+
+Users can manage their dashboard subscriptions from the new My Account page. Click [here](invite-tracker/dashboard/my-account.md) to see how it works.
+
 ## What are the required permissions for Invite Tracker?
 
 All of Invite Tracker's required permissions are required for a reason, so please be careful about what permissions you remove. If you do start to remove permissions, you have a high likelihood of rendering some of Invite Tracker's features useless.
 
 | Permission             | Usage                                                                                       |
 | ---------------------- | ------------------------------------------------------------------------------------------- |
-| `Add Reactions`        | Needed to add reactions to messages such as giveaways                                       |
+| `Add Reactions`        | Needed for Invite Tracker to react to join messages                                         |
 | `Attach Files`         | Needed to send statistical graphs                                                           |
-| `Embed Links`          | Needed to send embeds such as leaderboards and embedded join/leave messages                 |
-| `Manage Messages`      | Needed to pin leaderboards and to remove reactions for giveaways                            |
-| `Manage Roles`         | Needed to grant roles such as reward roles and auto roles                                   |
+| `Embed Links`          | Needed to send embeds such as leaderboards, giveaways, and embedded join/leave messages     |
+| `Manage Messages`      | Needed to pin leaderboards                                                                  |
+| `Manage Roles`         | Needed to grant roles such as reward roles, auto roles, or a verified role.                 |
 | `Manage Server`        | Needed to view the server's active invites so it can track them                             |
-| `Read Messages`        | Needed to view messages so it can either respond to or track them                           |
+| `Manage Channel`       | Needed for the bot to be able see invites created in a channel for tracking invites         |
+| `View Channel`         | Needed to view messages so it can either respond to or track them                           |
 | `Read Message History` | Needed to view older messages so it may edit them such as pinned leaderboards and giveaways |
-| `Send Messages`        | Needed to respond to commands and send join, join dm and leave messages                     |
-| `Use External Emojis`  | Needed to use private emojis for the help pages, for example                                |
+| `Send Messages`        | Needed to respond to commands and send join/leave messages, giveaways, or leaderboards      |
+| `Use External Emojis`  | Needed to use private emojis for join, join dm, or leave messages                           |
