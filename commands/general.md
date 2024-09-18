@@ -47,4 +47,4 @@ description: The explanation for all the general commands available for Invite T
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | `/leaderboard invites [type<all time\|daily\|weekly>] [@role]`  | Displays the server's invite leaderboard. You can also choose a type to display a leaderboard for all time, daily, and weekly.  |
 | `/leaderboard messages [type<all time\|daily\|weekly>] [@role]` | Displays the server's message leaderboard. You can also choose a type to display a leaderboard for all time, daily, and weekly. |
-| `/stats <joins\|leaves>`                                        | Displays the server's join statistics via a graph                                                                               |
+| `/stats <joins\|leaves\|combined>`                              | Displays the server's statistics via a graph                                                                                    |
