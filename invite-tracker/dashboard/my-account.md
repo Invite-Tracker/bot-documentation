@@ -12,9 +12,9 @@ _My Account_ will display at the top right when logged in. Click your username a
 
 <figure><img src="../../.gitbook/assets/myacc1.png" alt=""><figcaption></figcaption></figure>
 
-You will be presented with your avatar and username. The button to _Manage Subscriptions_ allows you to cancel your subscription and download your invoices.
+You will be presented with your avatar and username. The button to _Manage Subscriptions_ allows you to cancel your subscription, manage your payment information, and download your invoices.
 
-<figure><img src="../../.gitbook/assets/myacc2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/myacc2replacement.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 The _Manage Subscriptions_ button will only work if you have a Dashboard subscription.

@@ -13,6 +13,10 @@ description: >-
 | `/deleteinvite <code>` | Deletes the specified invite code                                  |
 | `/syncinvites [@user]` | Synchronizes the server's invites with everyone or a specific user |
 
+{% hint style="danger" %}
+/syncinvites adds the uses of active invites in your server to the invite count of the bot. You should only run this once (such as when adding the bot to your server), otherwise you will double the invites if run again.
+{% endhint %}
+
 ## Server Settings
 
 | Command                                   | Description                                                                                                                            |
