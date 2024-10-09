@@ -8,6 +8,10 @@ description: >-
 
 ## Useful Information
 
+{% embed url="https://youtu.be/iUs6rr28tiY" %}
+A tutorial video on how to SETUP the Invite Tracker bot!
+{% endembed %}
+
 ### Main Message Types
 
 Join, join DM, and leave messages are very similar. The only differences are the triggers and the different variables you can use to configure them.&#x20;
@@ -105,7 +109,7 @@ After it has been enabled, you are prompted with a lot of text boxes. It might l
 
 An overview of where everything is placed in the embed can be found below.
 
-![](<../../../.gitbook/assets/image (50).png>)
+![](<../../../.gitbook/assets/image (52).png>)
 
 Now that you have a general idea of how the embed looks and what goes where we can get to the explanation of every textbox.
 

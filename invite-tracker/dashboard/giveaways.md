@@ -63,7 +63,7 @@ The second box is where you configure at what time you want the giveaway to end.
 
 * **Required Roles** are roles that are needed to join a giveaway. If you do not have all the required roles and you try to join the giveaway, you will not be able to enter.
 * **Bonus Entry Roles** are all awarded a specified amount of bonus entries to the giveaway. Users with these roles have an increased chance of winning the giveaway.
-* <img src="../../.gitbook/assets/image (29).png" alt="" data-size="line"> **Winner Roles** are roles that are given to the winner(s) of the giveaway.
+* <img src="../../.gitbook/assets/image (31).png" alt="" data-size="line"> **Winner Roles** are roles that are given to the winner(s) of the giveaway.
 
 ![](../../.gitbook/assets/Giveaway3.png)
 
@@ -99,7 +99,7 @@ Now that we have an active giveaway, we can go back to the dashboard and see tha
 
 ![](<../../.gitbook/assets/Giveaway Edit Dash.png>)
 
-## <img src="../../.gitbook/assets/image (57).png" alt="" data-size="line"> Editing a Giveaway
+## <img src="../../.gitbook/assets/image (59).png" alt="" data-size="line"> Editing a Giveaway
 
 To edit a giveaway, just click the _**Blue Pencil**_ button. This will show almost the exact same menu as the giveaway creation menu.
 

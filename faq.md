@@ -26,6 +26,12 @@ This feature has sadly been disabled due to it being against Discord's Developer
 <mark style="color:blue;">Invite requirements for giveaways is also disabled due to being against Discord's Developer Terms of Service for the same reason as invite roles.</mark>
 {% endhint %}
 
+## How do I setup Invite Tracker?
+
+{% embed url="https://youtu.be/iUs6rr28tiY" %}
+A tutorial video on how to SETUP the Invite Tracker bot!
+{% endembed %}
+
 ## How do I manage my premium subscription?
 
 Users can manage their dashboard subscriptions from the new My Account page. Click [here](invite-tracker/dashboard/my-account.md) to see how it works.
