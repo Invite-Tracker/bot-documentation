@@ -8,7 +8,7 @@ description: Custom Bots let you run an instance of Invite Tracker on your own a
 This feature requires the **Custom Bot** tier of Invite Tracker Premium. You can purchase it [here](https://invite-tracker.com/premium) and read about all it's perks.
 {% endhint %}
 
-If you have the applicable subscription already, let's get started with making an application for Invite Tracker to run on. You may [skip](custom-bot.md#embed-color) this part if you already know what you're doing.
+If you have the applicable subscription already, let's get started with making an application for Invite Tracker to run on. It is **highly recommended** you follow this tutorial step by step. Should you run into any issues, you may join our [support discord](https://discord.gg/8RwBGuf). You may [skip](custom-bot.md#embed-color) this part if you already know what you're doing.
 
 ## Creating an Application
 
@@ -33,6 +33,10 @@ To invite the custom bot to your server, head to the OAuth2 tab on the left. Sel
 
 <figure><img src="../../.gitbook/assets/app_invite.gif" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+Do not use the Installation tab to invite the bot. Please follow the steps provided through the OAuth2 tab.
+{% endhint %}
+
 {% hint style="success" %}
 For this tutorial, administrator allows the custom bot to function as efficiently as possible. You may still choose to use the default Invite Tracker permissions. Click [here](../../faq.md#what-are-the-required-permissions-for-invite-tracker) to see them.
 {% endhint %}
@@ -40,6 +44,10 @@ For this tutorial, administrator allows the custom bot to function as efficientl
 After inviting your custom bot, we need to activate it. Head to the Bot tab on the left and copy your token. On the server with the Custom bot tier, you will see a new plugin called _**Custom Bot**_, then paste the copied token into _**Bot Token**_ and save changes.
 
 <figure><img src="../../.gitbook/assets/app_token.gif" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+The bot token input disappearing is an intended feature. Please make sure to save your bot token separately.&#x20;
+{% endhint %}
 
 ## Embed Color
 
