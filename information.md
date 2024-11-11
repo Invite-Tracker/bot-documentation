@@ -8,6 +8,8 @@ description: Just a little bit of important information regarding the documentat
 
 Developer Mode is a useful utility tool offered by Discord. Some of Invite Tracker's features require Developer Mode. Developer Mode lets you acquire and copy IDs for things such as users and channels. To enable Developer Mode, follow the steps underneath.
 
+[Alternative tutorial on how to enable developer mode and find an ID](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID)
+
 ### Enabling Developer Mode
 
 ![](https://imgur.com/qz8fqTC.gif)
