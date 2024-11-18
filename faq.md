@@ -32,6 +32,12 @@ This feature has sadly been disabled due to it being against Discord's Developer
 A tutorial video on how to SETUP the Invite Tracker bot!
 {% endembed %}
 
+## How do giveaways work?
+
+{% embed url="https://youtu.be/JSxU-0oPmaE" %}
+A tutorial video on how giveaways work and how to set them up.
+{% endembed %}
+
 ## How do I manage my premium subscription?
 
 Users can manage their dashboard subscriptions from the new My Account page. Click [here](invite-tracker/dashboard/my-account.md) to see how it works.

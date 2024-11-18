@@ -6,6 +6,12 @@ description: >-
 
 # 🎉 Giveaways
 
+
+
+{% embed url="https://youtu.be/JSxU-0oPmaE" %}
+A tutorial video on how giveaways work and how to set them up.
+{% endembed %}
+
 {% hint style="warning" %}
 <mark style="color:orange;">Free servers can only have a maximum of 5 running giveaways at the same time.</mark>
 
