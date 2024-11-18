@@ -38,6 +38,11 @@ A tutorial video on how to SETUP the Invite Tracker bot!
 A tutorial video on how giveaways work and how to set them up.
 {% endembed %}
 
+## How do giveaway "extra entries" work?&#x20;
+
+On free servers, there is an option to vote for the bot to gain **1 extra entry** for a giveaway.\
+It is important to note that this extra vote is not reflected in the "Participants" count. However, the bot will check if you have voted when the giveaway ends, so make sure to keep voting [here!](https://top.gg/bot/720351927581278219/vote)&#x20;
+
 ## How do I manage my premium subscription?
 
 Users can manage their dashboard subscriptions from the new My Account page. Click [here](invite-tracker/dashboard/my-account.md) to see how it works.
