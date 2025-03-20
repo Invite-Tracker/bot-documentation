@@ -3,7 +3,11 @@
 * [Home](README.md)
 * [Information](information.md)
 * [FAQ](faq.md)
-* [Why is Invite Tracker inviting me to servers?](why-is-invite-tracker-inviting-me-to-servers.md)
+
+## 🗃️ FAQ Directory
+
+* [Why is Invite Tracker inviting me to servers?](faq-directory/why-is-invite-tracker-inviting-me-to-servers.md)
+* [Links](faq-directory/links.md)
 
 ## 🌐 Website <a href="#invite-tracker" id="invite-tracker"></a>
 
@@ -22,7 +26,7 @@
 * [Premium](invite-tracker/premium.md)
 * [Status](invite-tracker/status.md)
 
-## Commands
+## 🛠️ Commands
 
 * [General](commands/general.md)
 * [Administration](commands/administration.md)
