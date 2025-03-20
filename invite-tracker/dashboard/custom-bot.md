@@ -5,7 +5,7 @@ description: Custom Bots let you run an instance of Invite Tracker on your own a
 # 🤖 Custom Bot
 
 {% hint style="warning" %}
-This feature requires the **Custom Bot** tier of Invite Tracker Premium. You can purchase it [here](https://invite-tracker.com/premium) and read about all it's perks.
+This feature requires the **Custom Bot** tier of Invite Tracker Premium. You can purchase it [here](https://invite-tracker.com/premium) and read about what it offers.
 {% endhint %}
 
 If you have the applicable subscription already, let's get started with making an application for Invite Tracker to run on. It is **highly recommended** you follow this tutorial step by step. Should you run into any issues, you may join our [support discord](https://discord.gg/8RwBGuf). You may [skip](custom-bot.md#embed-color) this part if you already know what you're doing.
@@ -21,7 +21,15 @@ Choose a name for your new application and agree to the terms and conditions. Af
 
 <figure><img src="../../.gitbook/assets/devappi2.png" alt=""><figcaption></figcaption></figure>
 
-Head to the Bot tab on the left. From there, disable the _**Public Bot**_ option and enable the _**Server Members Intent**_ option.
+First, head to the Installation tab on the left. (1) Select the dropdown menu in **Install Link** and (2) select the **None** option.
+
+<figure><img src="../../.gitbook/assets/installlink1.png" alt=""><figcaption></figcaption></figure>
+
+(3) Confirm **Install Link** is set to **None**. Save Changes.
+
+<figure><img src="../../.gitbook/assets/installlink2.png" alt=""><figcaption></figcaption></figure>
+
+Next, head to the Bot tab. From there, disable the _**Public Bot**_ option and enable the _**Server Members Intent**_ option.
 
 <figure><img src="../../.gitbook/assets/app_perms.gif" alt=""><figcaption></figcaption></figure>
 
@@ -29,7 +37,7 @@ Head to the Bot tab on the left. From there, disable the _**Public Bot**_ option
 The custom bot will not work without the _**Server Members Intent**_ option.
 {% endhint %}
 
-To invite the custom bot to your server, head to the OAuth2 tab on the left. Select _**bot**_ in OAuth2 URL Generator and _**Administrator**_ in Bot Permissions. You will then be able to use the Generated URL to invite your custom bot to the server.
+To invite the custom bot to your server, head to the OAuth2 tab on the left. Select _**bot**_ in OAuth2 URL Generator and _**Administrator**_ in Bot Permissions. You will then be able to use the Generated URL to invite your custom bot to the server by copying and pasting the link into your browser. You could also copy and paste the link into your discord, clicking the link to invite the custom bot.
 
 <figure><img src="../../.gitbook/assets/app_invite.gif" alt=""><figcaption></figcaption></figure>
 
