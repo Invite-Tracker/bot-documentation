@@ -6,8 +6,8 @@
 
 ## 🗃️ FAQ Directory
 
-* [Why is Invite Tracker inviting me to servers?](faq-directory/why-is-invite-tracker-inviting-me-to-servers.md)
-* [Links](faq-directory/links.md)
+* [Links](faq-directory/links/README.md)
+  * [Why is Invite Tracker inviting me to servers?](faq-directory/links/why-is-invite-tracker-inviting-me-to-servers.md)
 
 ## 🌐 Website <a href="#invite-tracker" id="invite-tracker"></a>
 

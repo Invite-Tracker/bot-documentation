@@ -1,0 +1,4 @@
+# Links
+
+[FAQ](../../faq.md)
+
