@@ -32,7 +32,7 @@ description: The explanation for all the management commands available for Invit
 
 ### Messages
 
-| `/addmessages <@user> <amount>`        | Adds the specified amount of messages to the specified member                                                                                                           |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `/removemessages <@user> <amount>`     | Removes the specified amount of messages from the specified member                                                                                                      |
-| `/resetmessages <@user\|role\|target>` | Resets all messages for the specified member, for all members with a specific role, or target to reset messages for the entire server or all the members who have left. |
+| `/addmessages <@user> <amount>`    | Adds the specified amount of messages to the specified member                                                                     |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| `/removemessages <@user> <amount>` | Removes the specified amount of messages from the specified member                                                                |
+| `/resetmessages <@user\|target>`   | Resets all messages for the specified member, or target to reset messages for the entire server or all the members who have left. |
