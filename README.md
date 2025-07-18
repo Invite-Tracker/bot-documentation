@@ -2,8 +2,25 @@
 description: >-
   Welcome to Invite Tracker's documentation. Here you may learn a thing or two
   about the bot.
-cover: .gitbook/assets/cover (2).jpg
-coverY: 0
+cover: .gitbook/assets/BotBanner.png
+coverY: 36.91313583013054
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Home
