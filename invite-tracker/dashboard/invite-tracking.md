@@ -13,15 +13,15 @@ The _fake delay_ of your server is the number of days old an account has to be w
 ![](<../../.gitbook/assets/Fake Delay.png>)
 
 {% hint style="info" %}
-<mark style="color:blue;">Every server's default</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">fake delay</mark>_ <mark style="color:blue;"></mark><mark style="color:blue;">is 3 days.</mark>
+<mark style="color:blue;">Every server's default</mark> _<mark style="color:blue;">fake delay</mark>_ <mark style="color:blue;">is 3 days.</mark>
 {% endhint %}
 
 {% hint style="success" %}
-<mark style="color:green;">A good</mark> <mark style="color:green;"></mark>_<mark style="color:green;">fake delay</mark>_ <mark style="color:green;"></mark><mark style="color:green;">is 5 days.</mark>
+<mark style="color:green;">A good</mark> _<mark style="color:green;">fake delay</mark>_ <mark style="color:green;">is 5 days.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">A server's</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">fake delay</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">must be between 0 and 300 days.</mark>
+<mark style="color:orange;">A server's</mark> _<mark style="color:orange;">fake delay</mark>_ <mark style="color:orange;">must be between 0 and 300 days.</mark>
 {% endhint %}
 
 ## User Invites Blacklist
@@ -43,3 +43,26 @@ This is where you invite blacklist members using their user IDs. Invite-blacklis
 {% hint style="danger" %}
 <mark style="color:red;">Be careful not to blacklist the wrong users.</mark>
 {% endhint %}
+
+## Invite Label
+
+Invite Labels allow you to label specific invite codes to track where members are joining from.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+You can set up an invite label by pasting in your invite link or code (e.g discord.gg/someinvite or someinvite), and set your label to what you would want it to be. \
+\
+You can use the `%invite_label%` variable for your join/leave messages so it will show the label name (or its invite code).\
+\
+You can also search who joined from a specific label by using the `/invitedlist` comand.
+
+{% hint style="info" %}
+<mark style="color:blue;">An invite code can have only one label; multiple codes can share the same label.</mark>
+{% endhint %}
+
+{% hint style="warning" %}
+<mark style="color:orange;">Free servers can only add one invite label.</mark>
+
+<mark style="color:orange;">Premium servers can add unlimited labels.</mark>
+{% endhint %}
+
