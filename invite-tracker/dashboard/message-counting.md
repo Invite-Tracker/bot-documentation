@@ -47,7 +47,7 @@ This is where you can blacklist a channel from having messages counted. Messages
 
 This is where you can blacklist roles from having messages counted. Messages sent by users with a message-blacklisted role will not count towards their total amount of messages sent.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/role-messages-blacklist (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">Free servers can only have a maximum of 3 blacklisted roles.</mark>

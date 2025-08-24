@@ -48,7 +48,7 @@ This is where you invite blacklist members using their user IDs. Invite-blacklis
 
 Invite Labels allow you to label specific invite codes to track where members are joining from.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/invite-label.png" alt=""><figcaption></figcaption></figure>
 
 You can set up an invite label by pasting in your invite link or code (e.g discord.gg/someinvite or someinvite), and set your label to what you would want it to be. \
 \

@@ -17,18 +17,14 @@ There are 4 verification levels:
 * **Captcha**: Requires new members to solve a captcha sent by Invite Tracker to get their verification role.
 * **Website**: Requires new members to solve a captcha on our website. This offers the best protection against bots and raids.
 
-<div align="center" data-full-width="false">
-
-<img src="../../.gitbook/assets/Verification Level.png" alt="">
-
-</div>
+<div align="center" data-full-width="false"><img src="../../.gitbook/assets/Verification Level.png" alt=""></div>
 
 {% hint style="info" %}
-<mark style="color:blue;">Selecting the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Button**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">option will cause a new, blue bar to appear. Clicking this will cause Invite Tracker to attempt to send a verification button to your server's</mark> [_<mark style="color:purple;">verification channel</mark>_](verification.md#verification-channel)<mark style="color:blue;">. If Invite Tracker fails, please grant it the required permissions for that channel.</mark>
+<mark style="color:blue;">Selecting the</mark> <mark style="color:blue;">**Button**</mark> <mark style="color:blue;">option will cause a new, blue bar to appear. Clicking this will cause Invite Tracker to attempt to send a verification button to your server's</mark> [_<mark style="color:purple;">verification channel</mark>_](verification.md#verification-channel)<mark style="color:blue;">. If Invite Tracker fails, please grant it the required permissions for that channel.</mark>
 {% endhint %}
 
 {% hint style="success" %}
-<mark style="color:green;">We recommend using the</mark> <mark style="color:green;"></mark><mark style="color:green;">**Website**</mark> <mark style="color:green;"></mark><mark style="color:green;">option for this feature as it is the most secure way of protecting your server against bot accounts and raids.</mark>
+<mark style="color:green;">We recommend using the</mark> <mark style="color:green;">**Website**</mark> <mark style="color:green;">option for this feature as it is the most secure way of protecting your server against bot accounts and raids.</mark>
 {% endhint %}
 
 ## Verification Timeout
@@ -38,11 +34,11 @@ The _verification timeout_ of your server is the number of seconds that need to 
 ![](<../../.gitbook/assets/Verification Timeout.png>)
 
 {% hint style="success" %}
-<mark style="color:green;">Users need time to verify, so remember to set the</mark> <mark style="color:green;"></mark>_<mark style="color:green;">verification timeout</mark>_ <mark style="color:green;"></mark><mark style="color:green;">accordingly. The default</mark> <mark style="color:green;"></mark>_<mark style="color:green;">verification timeout</mark>_ <mark style="color:green;"></mark><mark style="color:green;">of 180 seconds should be sufficient for most cases.</mark>
+<mark style="color:green;">Users need time to verify, so remember to set the</mark> _<mark style="color:green;">verification timeout</mark>_ <mark style="color:green;">accordingly. The default</mark> _<mark style="color:green;">verification timeout</mark>_ <mark style="color:green;">of 180 seconds should be sufficient for most cases.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">A server's</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">verification timeout</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">must be between 15 and 1800 seconds.</mark>
+<mark style="color:orange;">A server's</mark> _<mark style="color:orange;">verification timeout</mark>_ <mark style="color:orange;">must be between 15 and 1800 seconds.</mark>
 {% endhint %}
 
 ## Verification Action
@@ -57,11 +53,11 @@ There are two _verification actions_:
 ![](<../../.gitbook/assets/Verification Action.png>)
 
 {% hint style="info" %}
-<mark style="color:blue;">Every server's default</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">verification action</mark>_ <mark style="color:blue;"></mark><mark style="color:blue;">is set to kick.</mark>
+<mark style="color:blue;">Every server's default</mark> _<mark style="color:blue;">verification action</mark>_ <mark style="color:blue;">is set to kick.</mark>
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:red;">Be careful when using the</mark> <mark style="color:red;"></mark><mark style="color:red;">**Ban**</mark> <mark style="color:red;"></mark><mark style="color:red;">option for this feature. It is generally not recommended to use it.</mark>
+<mark style="color:red;">Be careful when using the</mark> <mark style="color:red;">**Ban**</mark> <mark style="color:red;">option for this feature. It is generally not recommended to use it.</mark>
 {% endhint %}
 
 ## Verification Role
@@ -88,7 +84,7 @@ The _verification channel_ of your server is the channel where the verification 
 
 _Verification Custom Embed_ allows you to customize the embed for the button [verification level](verification.md#verification-level) option.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Once enabled, you can customize what the embed looks like. The new embed is sent out when you click on the _Send Verification Panel_ button.
 
@@ -105,4 +101,3 @@ The _verification logs channel_ of your server is where your server's _verificat
 {% hint style="warning" %}
 <mark style="color:orange;">You need to enable the</mark> [_<mark style="color:purple;">verification logs</mark>_](verification.md#verification-logs) <mark style="color:orange;">switch for this feature to work.</mark>
 {% endhint %}
-

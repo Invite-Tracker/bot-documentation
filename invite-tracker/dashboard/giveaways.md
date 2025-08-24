@@ -74,14 +74,14 @@ The second box is where you configure at what time you want the giveaway to end.
 * **Bonus Entry Roles** are all awarded a specified amount of bonus entries to the giveaway. Users with these roles have an increased chance of winning the giveaway.
 * <img src="../../.gitbook/assets/image (31).png" alt="" data-size="line"> **Winner Roles** are roles that are given to the winner(s) of the giveaway.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/role-assignment.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">Remember to add the number of bonus entries given to each role when assigning bonus entry roles.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">The maximum amount of required roles, and winner roles you can have is 10.</mark>
+<mark style="color:orange;">The maximum amount of required roles and winner roles you can have is 10.</mark>
 
 <mark style="color:orange;">You can add up to 30 bonus entry roles if you have a premium server.</mark>
 {% endhint %}
