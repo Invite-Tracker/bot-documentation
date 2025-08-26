@@ -16,13 +16,7 @@ description: The explanation for all the general commands available for Invite T
 
 ## Invites
 
-| Command                                                                                               | Description                                                                             |
-| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| `/findlink [mobile_mode: <True\|False>]`                                                              | Displays the invite link you own which is located the highest in the guild settings     |
-| <img src="../.gitbook/assets/premium.png" alt="" data-size="line">`/invitecodes` `[@user]`            | Displays all of your, or the specified member's, invite codes in descending order       |
-| <img src="../.gitbook/assets/premium.png" alt="" data-size="line">`/invitedlist <@user\|invite code>` | Displays a list of users who were invited via you, the specified member, or invite link |
-| <img src="../.gitbook/assets/premium.png" alt="" data-size="line">`/inviter <@user>`                  | Displays who invited the specified member                                               |
-| `/invites [@user]`                                                                                    | Displays the number of invites you or the specified member has                          |
+<table><thead><tr><th width="431.5999755859375">Command</th><th>Description</th></tr></thead><tbody><tr><td><code>/findlink [mobile_mode: &#x3C;True|False>]</code></td><td>Displays the invite link you own which is located the highest in the guild settings</td></tr><tr><td><img src="../.gitbook/assets/premium.png" alt="" data-size="line"><code>/invitecodes</code> <code>[@user]</code></td><td>Displays all of your, or the specified member's, invite codes in descending order</td></tr><tr><td><img src="../.gitbook/assets/premium.png" alt="" data-size="line"><code>/invitedlist &#x3C;@user|invite code|invite label filter role></code></td><td>Displays a list of users who were invited via you, the specified member, or invite link</td></tr><tr><td><img src="../.gitbook/assets/premium.png" alt="" data-size="line"><code>/inviter &#x3C;@user></code></td><td>Displays who invited the specified member</td></tr><tr><td><code>/invites [@user]</code></td><td>Displays the number of invites you or the specified member has</td></tr></tbody></table>
 
 ## Links
 

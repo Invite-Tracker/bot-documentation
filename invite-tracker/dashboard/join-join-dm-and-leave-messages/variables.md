@@ -40,5 +40,6 @@ description: >-
 | %invite\_code%            | The invite code the user used                                                      | `JOIN`                     |
 | %invite\_uses%            | The number of uses the invite code has                                             | `JOIN`                     |
 | %invite\_url%             | The invite url                                                                     | `JOIN`                     |
+| %invite\_label%           | Displays the invite label assigned to the invite the user joined from              | `JOIN`, `LEAVE`            |
 | %random\_color%           | Random color for embeds                                                            | `JOIN`, `LEAVE`            |
 

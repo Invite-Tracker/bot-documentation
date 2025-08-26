@@ -17,11 +17,7 @@ There are 4 verification levels:
 * **Captcha**: Requires new members to solve a captcha sent by Invite Tracker to get their verification role.
 * **Website**: Requires new members to solve a captcha on our website. This offers the best protection against bots and raids.
 
-<div align="center" data-full-width="false">
-
-<img src="../../.gitbook/assets/Verification Level.png" alt="">
-
-</div>
+<div align="center" data-full-width="false"><img src="../../.gitbook/assets/Verification Level.png" alt=""></div>
 
 {% hint style="info" %}
 <mark style="color:blue;">Selecting the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Button**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">option will cause a new, blue bar to appear. Clicking this will cause Invite Tracker to attempt to send a verification button to your server's</mark> [_<mark style="color:purple;">verification channel</mark>_](verification.md#verification-channel)<mark style="color:blue;">. If Invite Tracker fails, please grant it the required permissions for that channel.</mark>
@@ -88,7 +84,7 @@ The _verification channel_ of your server is the channel where the verification 
 
 _Verification Custom Embed_ allows you to customize the embed for the button [verification level](verification.md#verification-level) option.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Once enabled, you can customize what the embed looks like. The new embed is sent out when you click on the _Send Verification Panel_ button.
 

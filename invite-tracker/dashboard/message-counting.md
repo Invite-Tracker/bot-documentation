@@ -43,9 +43,25 @@ This is where you can blacklist a channel from having messages counted. Messages
 <mark style="color:orange;">Premium servers can have an unlimited amount blacklisted channels.</mark>
 {% endhint %}
 
+### Role Messages Blacklist
+
+This is where you can blacklist roles from having messages counted. Messages sent by users with a message-blacklisted role will not count towards their total amount of messages sent.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+<mark style="color:orange;">Free servers can only have a maximum of 3 blacklisted roles.</mark>
+
+<mark style="color:orange;">Premium servers can have an unlimited amount of blacklisted roles.</mark>
+{% endhint %}
+
+{% hint style="danger" %}
+<mark style="color:red;">Be careful not to blacklist the wrong roles.</mark>
+{% endhint %}
+
 ## User Messages Blacklist
 
-This is where you can blacklist members from having their messages counted by using their user IDs. Messages sent by message-blacklisted users are not tracked by Invite Tracker and they do not gain any messages.
+This is where you can blacklist members from having their messages counted by using their user IDs. Messages sent by message-blacklisted users are not tracked by Invite Tracker and will not count towards their total amount of messages sent.
 
 ![](<../../.gitbook/assets/Umessage Blacklist.png>)
 
@@ -63,11 +79,7 @@ This switch decides the effect of the [_<mark style="color:purple;">reward roles
 
 _The Highest Mode_ decides whether users keep all of the reward roles they have managed to acquire or only the role that requires the most amount of messages. To keep the highest role, enable the Highest Mode setting. To keep all the roles added keep the Highest Mode setting disabled.
 
-<div align="center">
-
-<img src="../../.gitbook/assets/Highest Mode.png" alt="">
-
-</div>
+<div align="center"><img src="../../.gitbook/assets/Highest Mode.png" alt=""></div>
 
 ## Reward Roles
 

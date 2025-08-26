@@ -65,20 +65,28 @@ The second box is where you configure at what time you want the giveaway to end.
 <mark style="color:blue;">The giveaway ends at the configured time in your time zone.</mark>
 {% endhint %}
 
+{% hint style="warning" %}
+<mark style="color:orange;">Free server giveaways can last up to one month.</mark>&#x20;
+
+<mark style="color:orange;">Premium server giveaways can last up to three months.</mark>
+{% endhint %}
+
 ### Role Assignment
 
-* **Required Roles** are roles that are needed to join a giveaway. If you do not have all the required roles and you try to join the giveaway, you will not be able to enter.
+* **Required Roles** are roles that are needed to join a giveaway. You can choose to either require all roles when you try to join the giveaway, or you could only require one of them.
 * **Bonus Entry Roles** are all awarded a specified amount of bonus entries to the giveaway. Users with these roles have an increased chance of winning the giveaway.
 * <img src="../../.gitbook/assets/image (31).png" alt="" data-size="line"> **Winner Roles** are roles that are given to the winner(s) of the giveaway.
 
-![](../../.gitbook/assets/Giveaway3.png)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">Remember to add the number of bonus entries given to each role when assigning bonus entry roles.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">The maximum amount of required roles, bonus entry roles, and winner roles you can have is 10.</mark>
+<mark style="color:orange;">The maximum amount of required roles and winner roles you can have is 10.</mark>
+
+<mark style="color:orange;">You can add up to 30 bonus entry roles if you have a premium server.</mark>
 {% endhint %}
 
 ### Required Messages
