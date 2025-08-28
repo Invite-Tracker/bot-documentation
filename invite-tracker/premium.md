@@ -2,6 +2,25 @@
 description: >-
   If you are looking to enhance your experience with Invite Tracker, you have
   come to the right place.
+cover: ../.gitbook/assets/ServerBannerPremium.png
+coverY: -73.61153434145936
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Premium

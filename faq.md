@@ -49,29 +49,32 @@ Users can manage their dashboard subscriptions from the new My Account page. Cli
 
 ## What is the required permission to access the dashboard?
 
-In order for your administrators or moderators to access Invite Trackers dashboard they will need the _Manage Server_ or _Administrator_ permission enabled on their role.
+In order for your administrators or moderators to access Invite Trackers dashboard they will need the _Administrator_ permission enabled on their role.
 
 ## What are the required permissions for Invite Tracker?
 
 All of Invite Tracker's required permissions are required for a reason, so please be careful about what permissions you remove. If you do start to remove permissions, you have a high likelihood of rendering some of Invite Tracker's features useless.&#x20;
 
-Keep in mind that just giving the permissions it's role sometimes may not work as a specific channel has overridden it's permissions. So, to fix that you either need to add the Invite Tracker role in the specific channel and regrant the permissions needed or add _Administrator_ to the Invite Tracker role.
+Keep in mind that just giving the permissions to it's role sometimes may not work as a specific channel has overridden it's permissions. So, to fix that you either need to add the Invite Tracker role in the specific channel and regrant the permissions needed or add _Administrator_ to the Invite Tracker role.
 
-If you want to give Invite Tracker all permissions without any more hassle, you may grant _Administrator_ to the Invite Tracker role.
+If you want to give Invite Tracker all permissions without any more hassle, you may grant _Administrator_ to the Invite Tracker role. By default when adding the bot, _Administrator_ is already applied.
 
-| Permission             | Usage                                                                                       |
-| ---------------------- | ------------------------------------------------------------------------------------------- |
-| `Add Reactions`        | Needed for Invite Tracker to react to join messages                                         |
-| `Attach Files`         | Needed to send statistical graphs                                                           |
-| `Embed Links`          | Needed to send embeds such as leaderboards, giveaways, and embedded join/leave messages     |
-| `Manage Messages`      | Needed to pin leaderboards                                                                  |
-| `Manage Roles`         | Needed to grant roles such as reward roles, auto roles, or a verified role.                 |
-| `Manage Server`        | Needed to view the server's active invites so it can track them                             |
-| `Manage Channel`       | Needed for the bot to be able see invites created in a channel for tracking invites         |
-| `View Channel`         | Needed to view messages so it can either respond to or track them                           |
-| `Read Message History` | Needed to view older messages so it may edit them such as pinned leaderboards and giveaways |
-| `Send Messages`        | Needed to respond to commands and send join/leave messages, giveaways, or leaderboards      |
-| `Use External Emojis`  | Needed to use private emojis for join, join dm, or leave messages                           |
+| Permission             | Usage                                                                                        |
+| ---------------------- | -------------------------------------------------------------------------------------------- |
+| `Administrator`        | Grants all permissions                                                                       |
+| `Manage Server`        | Needed to view the server's active invites so it can track them                              |
+| `Manage Roles`         | Needed to grant roles such as reward roles, auto roles, winner roles, and verification roles |
+| `Manage Channels`      | Needed for the bot to be able see invites created in a channel for tracking invites          |
+| `Kick Members`         | Needed to kick members for verification action                                               |
+| `Ban Members`          | Needed to ban members for verification action or for mass bans                               |
+| `View Channel`         | Needed to view messages so it can either respond to or track them                            |
+| `Send Messages`        | Needed to respond to commands, edit messages, and send join/leave/test messages              |
+| `Manage Messages`      | Needed to pin leaderboards                                                                   |
+| `Embed Links`          | Needed to send embeds such as leaderboards, embedded join/leave messages, and giveaways      |
+| `Attach Files`         | Needed to send statistical graphs and exports of the leaderboard                             |
+| `Read Message History` | Needed to view older messages so it may edit them such as pinned leaderboards and giveaways  |
+| `Add Reactions`        | Needed to react to join/leave messages                                                       |
+| `Use External Emojis`  | Needed to use server emojis in your join/leave messages                                      |
 
 ## Why are invites not counting?
 

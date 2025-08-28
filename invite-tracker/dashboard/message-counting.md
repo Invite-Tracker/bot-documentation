@@ -13,7 +13,7 @@ The _message count delay_ of your server is the number of seconds that need to p
 
 For example, if a user sends a message which Invite Tracker counts and the _message count delay_ in that server is 10 seconds, Invite Tracker will not count any other messages sent by that same user before 10 seconds have passed. This is to stop people from spamming messages to be at the top of the message count leaderboard.
 
-![](<../../.gitbook/assets/Mcount Delay.png>)
+![](../../.gitbook/assets/mc_delay.png)
 
 {% hint style="info" %}
 <mark style="color:blue;">Every server's default</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">message count delay</mark>_ <mark style="color:blue;"></mark><mark style="color:blue;">is 0 seconds.</mark>
@@ -27,11 +27,11 @@ For example, if a user sends a message which Invite Tracker counts and the _mess
 <mark style="color:orange;">A server's</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">message count delay</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">must be between 0 and 300 seconds.</mark>
 {% endhint %}
 
-## Messages Channel Blacklist
+## Messages Channels Blacklist
 
 This is where you can blacklist a channel from having messages counted. Messages sent by users in a blacklisted channel will not be counted towards their total amount of messages sent.
 
-![](<../../.gitbook/assets/Mchannel Blacklist.png>)
+![](../../.gitbook/assets/mc_channel.png)
 
 {% hint style="success" %}
 <mark style="color:green;">A good idea would be to blacklist any bot-designated channels. This is because usually, you do not want people to gain messages for spamming lots of commands.</mark>
@@ -40,7 +40,19 @@ This is where you can blacklist a channel from having messages counted. Messages
 {% hint style="warning" %}
 <mark style="color:orange;">Free servers can only have a maximum of 5 blacklisted channels.</mark>
 
-<mark style="color:orange;">Premium servers can have an unlimited amount blacklisted channels.</mark>
+<mark style="color:orange;">Premium servers can have an unlimited amount of blacklisted channels.</mark>
+{% endhint %}
+
+## Role Messages Blacklist
+
+This is where you can blacklist a role from having messages counted. Users with the selected role will not have their messages counted.
+
+<figure><img src="../../.gitbook/assets/mc_role (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Free servers can only have a maximum of 3 blacklisted roles.
+
+Premium servers can have an unlimited amount of blacklisted roles.
 {% endhint %}
 
 ### Role Messages Blacklist
@@ -63,10 +75,16 @@ This is where you can blacklist roles from having messages counted. Messages sen
 
 This is where you can blacklist members from having their messages counted by using their user IDs. Messages sent by message-blacklisted users are not tracked by Invite Tracker and will not count towards their total amount of messages sent.
 
-![](<../../.gitbook/assets/Umessage Blacklist.png>)
+![](../../.gitbook/assets/mc_users.png)
 
 {% hint style="info" %}
 <mark style="color:blue;">Information regarding how to get a user's ID can be found</mark> [<mark style="color:purple;">here</mark>](../../information.md#copying-a-user-id)<mark style="color:blue;">.</mark>
+{% endhint %}
+
+{% hint style="warning" %}
+Free servers can only have a maximum of 3 blacklisted users.
+
+Premium servers can have an unlimited amount of blacklisted users.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -79,13 +97,13 @@ This switch decides the effect of the [_<mark style="color:purple;">reward roles
 
 _The Highest Mode_ decides whether users keep all of the reward roles they have managed to acquire or only the role that requires the most amount of messages. To keep the highest role, enable the Highest Mode setting. To keep all the roles added keep the Highest Mode setting disabled.
 
-<div align="center"><img src="../../.gitbook/assets/Highest Mode.png" alt=""></div>
+<div align="center"><img src="../../.gitbook/assets/mc_highestmode.png" alt=""></div>
 
 ## Reward Roles
 
 A _reward role_ is a role that is assigned to a user when they have sent a certain amount of messages.
 
-![](<../../.gitbook/assets/Reward Roles.png>)
+![](../../.gitbook/assets/mc_rewardrole.png)
 
 {% hint style="warning" %}
 <mark style="color:orange;">Free servers can only have a maximum of 5</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">reward roles</mark>_<mark style="color:orange;">.</mark>
