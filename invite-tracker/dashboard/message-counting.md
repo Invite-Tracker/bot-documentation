@@ -55,22 +55,6 @@ Free servers can only have a maximum of 3 blacklisted roles.
 Premium servers can have an unlimited amount of blacklisted roles.
 {% endhint %}
 
-### Role Messages Blacklist
-
-This is where you can blacklist roles from having messages counted. Messages sent by users with a message-blacklisted role will not count towards their total amount of messages sent.
-
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="warning" %}
-<mark style="color:orange;">Free servers can only have a maximum of 3 blacklisted roles.</mark>
-
-<mark style="color:orange;">Premium servers can have an unlimited amount of blacklisted roles.</mark>
-{% endhint %}
-
-{% hint style="danger" %}
-<mark style="color:red;">Be careful not to blacklist the wrong roles.</mark>
-{% endhint %}
-
 ## User Messages Blacklist
 
 This is where you can blacklist members from having their messages counted by using their user IDs. Messages sent by message-blacklisted users are not tracked by Invite Tracker and will not count towards their total amount of messages sent.

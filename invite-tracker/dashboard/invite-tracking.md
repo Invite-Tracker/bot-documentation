@@ -44,28 +44,6 @@ This is where you invite blacklist members using their user IDs. Invite-blacklis
 <mark style="color:red;">Be careful not to blacklist the wrong users.</mark>
 {% endhint %}
 
-## Invite Label
-
-Invite Labels allow you to label specific invite codes to track where members are joining from.
-
-<figure><img src="../../.gitbook/assets/invite-label.png" alt=""><figcaption></figcaption></figure>
-
-You can set up an invite label by pasting in your invite link or code (e.g discord.gg/someinvite or someinvite), and set your label to what you would want it to be. \
-\
-You can use the `%invite_label%` variable for your join/leave messages so it will show the label name (or its invite code).\
-\
-You can also search who joined from a specific label by using the `/invitedlist` comand.
-
-{% hint style="info" %}
-<mark style="color:blue;">An invite code can have only one label; multiple codes can share the same label.</mark>
-{% endhint %}
-
-{% hint style="warning" %}
-<mark style="color:orange;">Free servers can only add one invite label.</mark>
-
-<mark style="color:orange;">Premium servers can add unlimited labels.</mark>
-{% endhint %}
-
 ## Invites Leaderboard Hidden Users
 
 This is where you can hide users from the invites leaderboard using their user IDs. Invite leaderboard hidden users' invites are still tracked but not shown on the leaderboard.

@@ -83,8 +83,6 @@ The maximum end date without premium is 1 month and with premium is 3 months.
 
 ![](../../.gitbook/assets/GiveawayRow3.png)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="warning" %}
 <mark style="color:orange;">Remember to add the number of bonus entries given to each role when assigning bonus entry roles.</mark>
 {% endhint %}
