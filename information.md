@@ -47,24 +47,24 @@ There are different colors and fonts that are used throughout this documentation
 
 #### General
 
-* [<mark style="color:purple;">Purple</mark>](https://en.wikipedia.org/wiki/Purple) text is a clickable hyperlink.
+* [Blue](https://en.wikipedia.org/wiki/Shades_of_blue#Light_blue) text is a clickable hyperlink.
 * _Italic_ text refers to a specific feature or plugin.
 * **Bold** text refers to a specific option available within a feature in a plugin.
 
 #### Hints
 
 {% hint style="info" %}
-<mark style="color:blue;">General information regarding a specific feature.</mark>
+<mark style="color:$info;">General information regarding a specific feature.</mark>
 {% endhint %}
 
 {% hint style="success" %}
-<mark style="color:green;">General hints, tips, and tricks regarding a specific feature.</mark>
+<mark style="color:$success;">General hints, tips, and tricks regarding a specific feature.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">Information one should keep in mind when using a specific feature.</mark>
+<mark style="color:$warning;">Information one should keep in mind when using a specific feature.</mark>
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:red;">Important warnings regarding potentially server-breaking features.</mark>
+<mark style="color:$danger;">Important warnings regarding potentially server-breaking features.</mark>
 {% endhint %}

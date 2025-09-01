@@ -23,9 +23,9 @@ To access the dashboard of your server, simply follow the steps in the gif below
 ![](../../.gitbook/assets/ezgif.com-video-to-gif.gif)
 
 {% hint style="info" %}
-<mark style="color:blue;">When clicking</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Login**</mark><mark style="color:blue;">, you will be prompted with a login screen. Please log in using your Discord account.</mark>
+<mark style="color:$info;">When clicking</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**Login**</mark><mark style="color:$info;">, you will be prompted with a login screen. Please log in using your Discord account.</mark>
 
-<mark style="color:blue;">Do not worry about safety when logging in because you are logging through Discord's official site meaning we do not collect any private login information.</mark>
+<mark style="color:$info;">Do not worry about safety when logging in as you are logging through Discord's official site meaning we do not collect any private login information.</mark>
 {% endhint %}
 
 Keep reading to find out which plugin does what.

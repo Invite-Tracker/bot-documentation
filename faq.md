@@ -12,18 +12,18 @@ Due to Discord changing the prefixes, the forward slash will be the prefix used.
 
 ## Why is Invite Tracker not responding to my commands?
 
-Firstly, make sure the bot is not offline and that there are no current outages by checking Invite Tracker's support server's [<mark style="color:purple;">outage channel</mark>](https://discord.gg/MfTenmfQuP).
+Firstly, make sure the bot is not offline and that there are no current outages by checking Invite Tracker's support server's [outage channel](https://discord.gg/MfTenmfQuP).
 
 If there are no obvious outages, please mention the bot to check if Invite Tracker has enough permissions to view the channel. (You can not add any text other than the actual mention for this to work)&#x20;
 
-Lastly, if Invite Tracker is not responding to a mention, please make sure Invite Tracker has the right permissions. You can do this by running the `/permscheck` command and then assign all of the missing permissions to it. All of Invite Tracker's required permissions are listed [<mark style="color:purple;">here</mark>](faq.md#what-are-the-required-permissions-for-invite-tracker).
+Lastly, if Invite Tracker is not responding to a mention, please make sure Invite Tracker has the right permissions. You can do this by running the `/permscheck` command and then assign all of the missing permissions to it. All of Invite Tracker's required permissions are listed [here](faq.md#what-are-the-required-permissions-for-invite-tracker).
 
 ## How do I set up invite roles?
 
 This feature has sadly been disabled due to it being against Discord's Developer Terms of Service. Having any features that include rewarding invites just enables server advertisement in servers and direct messages. This is something Discord views as unsolicited advertisement, which is exactly what breaks the Discord Developer Policy.
 
 {% hint style="info" %}
-<mark style="color:blue;">Invite requirements for giveaways is also disabled due to being against Discord's Developer Terms of Service for the same reason as invite roles.</mark>
+<mark style="color:$info;">Invite requirements for giveaways is also disabled due to being against Discord's Developer Terms of Service for the same reason as invite roles.</mark>
 {% endhint %}
 
 ## How do I setup Invite Tracker?

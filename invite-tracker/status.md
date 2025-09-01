@@ -8,7 +8,7 @@ description: >-
 
 ## Finding The Status Page
 
-The Status page can be found either by accessing the [<mark style="color:purple;">dashboard</mark>](https://invite-tracker.com/) and clicking "Status" located at the top of the page, or you can simply just click this link:
+The Status page can be found either by accessing the [dashboard](https://invite-tracker.com/) and clicking "Status" located at the top of the page, or you can simply just click this link:
 
 {% embed url="https://invite-tracker.com/status" %}
 
@@ -27,9 +27,9 @@ Once you have the cluster and shard numbers, head down to the bottom part of the
 ![](../.gitbook/assets/Status.png)
 
 {% hint style="info" %}
-<mark style="color:blue;">If a cluster is colored</mark> <mark style="color:green;">green</mark><mark style="color:blue;">, it means that the cluster is operational and has stable ping throughout all of the shards. Invite Tracker is fully functional.</mark>
+<mark style="color:$info;">If a cluster is colored</mark> <mark style="color:green;">green</mark><mark style="color:$info;">, it means that the cluster is operational and has stable ping throughout all of the shards. Invite Tracker is fully functional.</mark>
 
-<mark style="color:blue;">If a cluster is colored</mark> <mark style="color:yellow;">yellow</mark><mark style="color:blue;">, it means that the cluster has a partial outage with unstable ping in some of the shards. Invite Tracker may experience lag.</mark>
+<mark style="color:$info;">If a cluster is colored</mark> <mark style="color:yellow;">yellow</mark><mark style="color:$info;">, it means that the cluster has a partial outage with unstable ping in some of the shards. Invite Tracker may experience lag.</mark>
 
-<mark style="color:blue;">If a cluster is colored</mark> <mark style="color:red;">red</mark><mark style="color:blue;">, it means that the cluster has a total outage with unstable ping in all of the shards. Invite Tracker is offline.</mark>
+<mark style="color:$info;">If a cluster is colored</mark> <mark style="color:red;">red</mark><mark style="color:$info;">, it means that the cluster has a total outage with unstable ping in all of the shards. Invite Tracker is offline.</mark>
 {% endhint %}

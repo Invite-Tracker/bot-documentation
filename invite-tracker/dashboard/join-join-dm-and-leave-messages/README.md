@@ -19,7 +19,7 @@ Join, join DM, and leave messages are very similar. The only differences are the
 For our examples, we will be configuring a join message.
 
 {% hint style="info" %}
-<mark style="color:blue;">You can find an explanation of all the differences between the main message types</mark> [<mark style="color:purple;">here</mark>](types.md#main-message-types).
+<mark style="color:$info;">You can find an explanation of all the differences between the main message types</mark> [<mark style="color:$info;">here</mark>](types.md#main-message-types).
 {% endhint %}
 
 ### Variables
@@ -27,7 +27,7 @@ For our examples, we will be configuring a join message.
 Usually, you want the message to display information that changes its value depending on who just joined or who invited the person that just joined, for example. The way to add this type of varying information is by using variables.
 
 {% hint style="info" %}
-<mark style="color:blue;">You can find the complete list of variables</mark> [<mark style="color:purple;">here</mark>](variables.md)<mark style="color:blue;">.</mark>
+<mark style="color:$info;">You can find the complete list of variables</mark> [<mark style="color:$info;">here</mark>](variables.md)<mark style="color:blue;">.</mark>
 {% endhint %}
 
 ### Emojis
@@ -41,10 +41,10 @@ Lastly, you may use emojis for your message too. Adding emojis is simple. Just c
 Take to mind that the only emojis that appear in the emoji keyboard are the ones from the server you are configuring the join message for. If you are looking to use emojis from other servers, please send the following message in any Discord server: `\:emoji name:`, it will replace the message with something that looks like this: `<:invitetracker:744565894289555456>`. If you take that message and put it into the dashboard, Invite Tracker will display the emoji when sending a message.
 
 {% hint style="warning" %}
-<mark style="color:orange;">There are two main problems with using custom emojis from other servers:</mark>
+<mark style="color:$warning;">There are two main problems with using custom emojis from other servers:</mark>
 
-1. <mark style="color:orange;">You can not use emojis from servers that Invite Tracker is not in.</mark>
-2. <mark style="color:orange;">There is a chance that the server removes either Invite Tracker or the emoji.</mark>
+1. <mark style="color:$warning;">You can not use emojis from servers that Invite Tracker is not in.</mark>
+2. <mark style="color:$warning;">There is a chance that the server removes either Invite Tracker or the emoji.</mark>
 {% endhint %}
 
 ## Configuration
@@ -56,7 +56,7 @@ The first thing you would want to do is select the channel you want your message
 ![](<../../../.gitbook/assets/Join Channel.png>)
 
 {% hint style="warning" %}
-<mark style="color:orange;">Configuring a channel does not apply to join DM messages.</mark>
+<mark style="color:$warning;">Configuring a channel does not apply to join DM messages.</mark>
 {% endhint %}
 
 ### Configuring a Sub-Message Type
@@ -68,7 +68,7 @@ There is automatically a join message set by default that can be used as shown b
 ![](../../../.gitbook/assets/JoinMessageNormal.png)
 
 {% hint style="info" %}
-&#x20;<mark style="color:blue;">A list explaining all the different sub-message types and their use can be found</mark> [<mark style="color:purple;">here</mark>](types.md#sub-message-types)<mark style="color:blue;">.</mark>
+&#x20;<mark style="color:$info;">A list explaining all the different sub-message types and their use can be found</mark> [<mark style="color:$info;">here</mark>](types.md#sub-message-types)<mark style="color:$info;">.</mark>
 {% endhint %}
 
 ## The Message
@@ -78,7 +78,7 @@ There is automatically a join message set by default that can be used as shown b
 When you have chosen the message type you want to configure, then you may pay attention to the large, black text box. This is where you write the message you want Invite Tracker to display when someone joins the server. The message may be anything you like.
 
 {% hint style="info" %}
-<mark style="color:blue;">If you'd like to customize your own join message be sure to refer to the variables that can be found</mark> [<mark style="color:purple;">here</mark>](types.md#main-message-types)<mark style="color:blue;">.</mark>
+<mark style="color:$info;">If</mark> <mark style="color:$info;"></mark><mark style="color:$info;">you'd like to customize your own join message be sure to refer to the variables that can be found</mark> [<mark style="color:$info;">here</mark>](types.md#main-message-types)<mark style="color:blue;">.</mark>
 {% endhint %}
 
 ### Testing the Message
@@ -92,7 +92,7 @@ The message will appear as you configured it. This message is an example of the 
 ![](../../../.gitbook/assets/TestJoinMessage.png)
 
 {% hint style="warning" %}
-<mark style="color:orange;">Remember to turn on join messages after finishing configuring your message by clicking the upper-most switch.</mark>
+<mark style="color:$warning;">Remember to turn on join messages after finishing configuring your message by clicking the upper-most switch.</mark>
 {% endhint %}
 
 ## <img src="../../../.gitbook/assets/premium.png" alt="" data-size="line"> Embed
@@ -154,13 +154,13 @@ Now if we click the **Test message** button, we get this message:
 ![](<../../../.gitbook/assets/EmbedTest (1).png>)
 
 {% hint style="info" %}
-<mark style="color:blue;">There is really no right or wrong way to use all the embed boxes, just play around with it until you find something you like.</mark>
+<mark style="color:$info;">There is really no right or wrong way to use all the embed boxes, just play around with it until you find something you like.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">Pay attention to the small numbers under a few of the text boxes and buttons. They are the limits on how much can be fitted into that specific area.</mark>
+<mark style="color:$warning;">Pay attention to the small numbers under a few of the text boxes and buttons. They are the limits on how much can be fitted into that specific area.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">You can not use embeds for join DM messages.</mark>
+<mark style="color:$warning;">You can not use embeds for join DM messages.</mark>
 {% endhint %}

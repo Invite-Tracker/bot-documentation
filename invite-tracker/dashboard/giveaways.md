@@ -13,9 +13,9 @@ A tutorial video on how giveaways work and how to set them up.
 {% endembed %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">Free servers can only have a maximum of 5 running giveaways at the same time.</mark>
+<mark style="color:$warning;">Free servers can only have a maximum of 5 running giveaways at the same time.</mark>
 
-<mark style="color:orange;">Premium servers can have up to 50 running giveaways at the same time.</mark>
+<mark style="color:$warning;">Premium servers can have up to 50 running giveaways at the same time.</mark>
 {% endhint %}
 
 ## Giveaway Roles
@@ -26,9 +26,9 @@ A tutorial video on how giveaways work and how to set them up.
 ![](../../.gitbook/assets/GiveawayGeneralSettings.png)
 
 {% hint style="warning" %}
-<mark style="color:orange;">Free servers can only have a maximum of 5 giveaway-blacklisted roles and 5 giveaway bypass roles.</mark>
+<mark style="color:$warning;">Free servers can only have a maximum of 5 giveaway-blacklisted roles and 5 giveaway bypass roles.</mark>
 
-<mark style="color:orange;">Premium servers can have an unlimited amount of giveaway-blacklisted roles and giveaway bypass roles.</mark>
+<mark style="color:$warning;">Premium servers can have an unlimited amount of giveaway-blacklisted roles and giveaway bypass roles.</mark>
 {% endhint %}
 
 ## Creating a Giveaway
@@ -48,9 +48,9 @@ At first glance, it might look like a lot of very complicated stuff but do not w
 ![](../../.gitbook/assets/GiveawayRow1.png)
 
 {% hint style="warning" %}
-<mark style="color:orange;">The maximum length of your prize name is only 190 characters.</mark>
+<mark style="color:$warning;">The maximum length of your prize name is only 190 characters.</mark>
 
-<mark style="color:orange;">The maximum amount of winners you can have without premium is 20 and with premium is 100.</mark>
+<mark style="color:$warning;">The maximum amount of winners you can have without premium is 20 and with premium is 100.</mark>
 {% endhint %}
 
 ### End Date
@@ -62,17 +62,17 @@ The second box is where you configure at what time you want the giveaway to end.
 ![](../../.gitbook/assets/GiveawayRow2.png)
 
 {% hint style="info" %}
-<mark style="color:blue;">The giveaway ends at the configured time in your time zone.</mark>
+<mark style="color:$info;">The giveaway ends at the configured time in your time zone.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">Free server giveaways can last up to one month.</mark>&#x20;
+<mark style="color:$warning;">Free server giveaways can last up to one month.</mark>&#x20;
 
-<mark style="color:orange;">Premium server giveaways can last up to three months.</mark>
+<mark style="color:$warning;">Premium server giveaways can last up to three months.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-The maximum end date without premium is 1 month and with premium is 3 months.
+<mark style="color:$warning;">The maximum end date without premium is 1 month and with premium is 3 months.</mark>
 {% endhint %}
 
 ### Role Assignment
@@ -84,11 +84,11 @@ The maximum end date without premium is 1 month and with premium is 3 months.
 ![](../../.gitbook/assets/GiveawayRow3.png)
 
 {% hint style="warning" %}
-<mark style="color:orange;">Remember to add the number of bonus entries given to each role when assigning bonus entry roles.</mark>
+<mark style="color:$warning;">Remember to add the number of bonus entries given to each role when assigning bonus entry roles.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">The maximum amount of required roles, bonus entry roles, and winner roles you can have is 10 and with premium you may have up to 30 bonus entry roles.</mark>
+<mark style="color:$warning;">The maximum amount of required roles, bonus entry roles, and winner roles you can have is 10 and with premium you may have up to 30 bonus entry roles.</mark>
 {% endhint %}
 
 ### Required Messages
@@ -98,7 +98,7 @@ Required messages are pretty self-explanatory. In order to join the giveaway, yo
 ![](../../.gitbook/assets/GiveawayRow4.png)
 
 {% hint style="warning" %}
-<mark style="color:orange;">Only numbers can go here to set the number of messages you want to require to be able to enter the giveaway. If the number of messages required is not met, it will not allow you to enter the giveaway.</mark>
+<mark style="color:$warning;">Only numbers can go here to set the number of messages you want to require to be able to enter the giveaway. If the number of messages required is not met, it will not allow you to enter the giveaway.</mark>
 {% endhint %}
 
 ### An example of a Giveaway

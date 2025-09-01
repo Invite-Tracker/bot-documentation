@@ -14,7 +14,7 @@ description: >-
 | `/syncinvites [@user]` | Synchronizes the server's invites with everyone or a specific user |
 
 {% hint style="danger" %}
-/syncinvites adds the uses of active invites in your server to the invite count of the bot. You should only run this once (such as when adding the bot to your server), otherwise you will double the invites if run again.
+`/syncinvites` <mark style="color:$danger;">adds the uses of active invites in your server to the invite count of the bot. You should only run this command once (such as when adding the bot to your server), otherwise you will double the invites if run again.</mark>
 {% endhint %}
 
 ## Server Settings

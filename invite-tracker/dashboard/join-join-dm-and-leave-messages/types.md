@@ -36,14 +36,14 @@ Invite Tracker allows each user to have a specific amount of **regular**, **left
 | `Unknown` | The message sent when Invite Tracker does not know how a user joined the server.                |
 
 {% hint style="warning" %}
-The `unknown` message is very rare. There are only a few reasons why you would get this message:
+<mark style="color:$warning;">The</mark> `unknown` <mark style="color:$warning;">message is very rare. There are only a few reasons why you would get this message:</mark>
 
-**1:** Invite Tracker can not see the channel to which the invite was directed.\
-(Permission problem which can be fixed easily by giving admin to Invite Tracker)
+<mark style="color:$warning;">**1:**</mark> <mark style="color:$warning;"></mark><mark style="color:$warning;">Invite Tracker can not see the channel to which the invite was directed.</mark>\ <mark style="color:$warning;">(Permission problem which can be fixed easily by giving admin to Invite Tracker)</mark>
 
-**2:** Multiple people joined at the same time. \
-(Impossible to fix)
+<mark style="color:$warning;">**2:**</mark> <mark style="color:$warning;"></mark><mark style="color:$warning;">Multiple people joined at the same time.</mark> \ <mark style="color:$warning;">(Impossible to fix)</mark>\
+\
+<mark style="color:$warning;">**3.**</mark> <mark style="color:$warning;"></mark><mark style="color:$warning;">The invites made are not being registered with discord. One use invite links will not track.</mark>\
 
-**3:** The bot just restarted and you server's invites were not in the bot's custom cache at that time, though they should be now. Remember that this should only be happening once after a bot restart. Note that this is not affecting premium servers.\
-(Nothing you can do about it)
+
+<mark style="color:$warning;">**4:**</mark> <mark style="color:$warning;"></mark><mark style="color:$warning;">The bot just restarted and you server's invites were not in the bot's custom cache at that time, though they should be now. Remember that this should only be happening once after a bot restart.</mark> \ <mark style="color:$warning;">(Impossible to fix)</mark>
 {% endhint %}

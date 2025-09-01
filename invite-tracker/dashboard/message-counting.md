@@ -16,15 +16,15 @@ For example, if a user sends a message which Invite Tracker counts and the _mess
 ![](../../.gitbook/assets/mc_delay.png)
 
 {% hint style="info" %}
-<mark style="color:blue;">Every server's default</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">message count delay</mark>_ <mark style="color:blue;"></mark><mark style="color:blue;">is 0 seconds.</mark>
+<mark style="color:$info;">Every server's default</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">message count delay</mark>_ <mark style="color:$info;"></mark><mark style="color:$info;">is 0 seconds.</mark>
 {% endhint %}
 
 {% hint style="success" %}
-<mark style="color:green;">A good</mark> <mark style="color:green;"></mark>_<mark style="color:green;">message count delay</mark>_ <mark style="color:green;"></mark><mark style="color:green;">is 10 seconds.</mark>
+<mark style="color:$success;">A good</mark> <mark style="color:$success;"></mark>_<mark style="color:$success;">message count delay</mark>_ <mark style="color:$success;"></mark><mark style="color:$success;">is 10 seconds.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">A server's</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">message count delay</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">must be between 0 and 300 seconds.</mark>
+<mark style="color:$warning;">A server's</mark> <mark style="color:$warning;"></mark>_<mark style="color:$warning;">message count delay</mark>_ <mark style="color:$warning;"></mark><mark style="color:$warning;">must be between 0 and 300 seconds.</mark>
 {% endhint %}
 
 ## Messages Channels Blacklist
@@ -34,13 +34,13 @@ This is where you can blacklist a channel from having messages counted. Messages
 ![](../../.gitbook/assets/mc_channel.png)
 
 {% hint style="success" %}
-<mark style="color:green;">A good idea would be to blacklist any bot-designated channels. This is because usually, you do not want people to gain messages for spamming lots of commands.</mark>
+<mark style="color:$success;">A good idea would be to blacklist any bot-designated channels. This is because usually, you do not want people to gain messages for spamming lots of commands.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-<mark style="color:orange;">Free servers can only have a maximum of 5 blacklisted channels.</mark>
+<mark style="color:$warning;">Free servers can only have a maximum of 5 blacklisted channels.</mark>
 
-<mark style="color:orange;">Premium servers can have an unlimited amount of blacklisted channels.</mark>
+<mark style="color:$warning;">Premium servers can have an unlimited amount of blacklisted channels.</mark>
 {% endhint %}
 
 ## Role Messages Blacklist
@@ -50,9 +50,9 @@ This is where you can blacklist a role from having messages counted. Users with 
 <figure><img src="../../.gitbook/assets/mc_role (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Free servers can only have a maximum of 3 blacklisted roles.
+<mark style="color:$warning;">Free servers can only have a maximum of 3 blacklisted roles.</mark>
 
-Premium servers can have an unlimited amount of blacklisted roles.
+<mark style="color:$warning;">Premium servers can have an unlimited amount of blacklisted roles.</mark>
 {% endhint %}
 
 ## User Messages Blacklist
@@ -62,22 +62,22 @@ This is where you can blacklist members from having their messages counted by us
 ![](../../.gitbook/assets/mc_users.png)
 
 {% hint style="info" %}
-<mark style="color:blue;">Information regarding how to get a user's ID can be found</mark> [<mark style="color:purple;">here</mark>](../../information.md#copying-a-user-id)<mark style="color:blue;">.</mark>
+<mark style="color:$info;">Information regarding how to get a user's ID can be found</mark> [<mark style="color:$info;">here</mark>](../../information.md#copying-a-user-id)<mark style="color:blue;">.</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-Free servers can only have a maximum of 3 blacklisted users.
+<mark style="color:$warning;">Free servers can only have a maximum of 3 blacklisted users.</mark>
 
-Premium servers can have an unlimited amount of blacklisted users.
+<mark style="color:$warning;">Premium servers can have an unlimited amount of blacklisted users.</mark>
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:red;">Be careful not to blacklist the wrong users.</mark>
+<mark style="color:$danger;">Be careful not to blacklist the wrong users.</mark>
 {% endhint %}
 
 ## Highest Mode
 
-This switch decides the effect of the [_<mark style="color:purple;">reward roles</mark>_](message-counting.md#reward-rolesto-assign-a-role-as-a-reward-role-simply-select-it-from-the-list-and-then-choose-the-num) feature for the message counting plugin.
+This switch decides the effect of the [_reward roles_](message-counting.md#reward-roles) feature for the message counting plugin.
 
 _The Highest Mode_ decides whether users keep all of the reward roles they have managed to acquire or only the role that requires the most amount of messages. To keep the highest role, enable the Highest Mode setting. To keep all the roles added keep the Highest Mode setting disabled.
 
@@ -90,7 +90,7 @@ A _reward role_ is a role that is assigned to a user when they have sent a certa
 ![](../../.gitbook/assets/mc_rewardrole.png)
 
 {% hint style="warning" %}
-<mark style="color:orange;">Free servers can only have a maximum of 5</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">reward roles</mark>_<mark style="color:orange;">.</mark>
+<mark style="color:$warning;">Free servers can only have a maximum of 5</mark> <mark style="color:$warning;"></mark>_<mark style="color:$warning;">reward roles</mark>_<mark style="color:$warning;">.</mark>
 
-<mark style="color:orange;">Premium servers can have an unlimited amount of</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">reward roles</mark>_<mark style="color:orange;">.</mark>
+<mark style="color:$warning;">Premium servers can have an unlimited amount of</mark> <mark style="color:$warning;"></mark>_<mark style="color:$warning;">reward roles</mark>_<mark style="color:$warning;">.</mark>
 {% endhint %}
