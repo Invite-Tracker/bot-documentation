@@ -69,7 +69,7 @@ If you want to give Invite Tracker all permissions without any more hassle, you 
 | `Ban Members`          | Needed to ban members for verification action or for mass bans                               |
 | `View Channel`         | Needed to view messages so it can either respond to or track them                            |
 | `Send Messages`        | Needed to respond to commands, edit messages, and send join/leave/test messages              |
-| `Manage Messages`      | Needed to pin leaderboards                                                                   |
+|  `Pin Messages`        | Needed to pin leaderboards                                                                   |
 | `Embed Links`          | Needed to send embeds such as leaderboards, embedded join/leave messages, and giveaways      |
 | `Attach Files`         | Needed to send statistical graphs and exports of the leaderboard                             |
 | `Read Message History` | Needed to view older messages so it may edit them such as pinned leaderboards and giveaways  |
