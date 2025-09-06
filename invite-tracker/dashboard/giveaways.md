@@ -6,8 +6,6 @@ description: >-
 
 # 🎉 Giveaways
 
-
-
 {% embed url="https://youtu.be/JSxU-0oPmaE" %}
 A tutorial video on how giveaways work and how to set them up.
 {% endembed %}
@@ -18,26 +16,19 @@ A tutorial video on how giveaways work and how to set them up.
 <mark style="color:$warning;">Premium servers can have up to 50 running giveaways at the same time.</mark>
 {% endhint %}
 
-## Giveaway Roles
-
-* **Giveaway Blacklisted Roles** are roles that disallow any user with any of these roles from joining any giveaways.
-* **Giveaway Bypass Roles** are roles that allow any user with any of these roles to join any giveaway even if they do not meet the requirements.
-
-![](../../.gitbook/assets/GiveawayGeneralSettings.png)
-
-{% hint style="warning" %}
-<mark style="color:$warning;">Free servers can only have a maximum of 5 giveaway-blacklisted roles and 5 giveaway bypass roles.</mark>
-
-<mark style="color:$warning;">Premium servers can have an unlimited amount of giveaway-blacklisted roles and giveaway bypass roles.</mark>
-{% endhint %}
-
 ## Creating a Giveaway
 
 To start creating a giveaway, simply click the big blue button that says _**Create Giveaway**_. This will make another menu pop up.
 
-![](../../.gitbook/assets/GiveawayOverview.png)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 At first glance, it might look like a lot of very complicated stuff but do not worry. We will go through everything.
+
+### Base Template
+
+You can select a giveaway template to auto fill in the prize name, number of winners, required roles, bonus entry roles and roles granted to winners. When using a template however you must input the **End Date and Time** and also select the giveaway channel before creating the giveaway.
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ### Prize Name, Number of Winners, and Channel
 
@@ -98,7 +89,7 @@ Required messages are pretty self-explanatory. In order to join the giveaway, yo
 ![](../../.gitbook/assets/GiveawayRow4.png)
 
 {% hint style="warning" %}
-<mark style="color:$warning;">Only numbers can go here to set the number of messages you want to require to be able to enter the giveaway. If the number of messages required is not met, it will not allow you to enter the giveaway.</mark>
+<mark style="color:$warning;">Only numbers can go here to set the number of messages you want to require to be able to enter the giveaway.</mark> \ <mark style="color:$warning;">If the number of messages required is not met, it will not allow you to enter the giveaway.</mark>
 {% endhint %}
 
 ### An example of a Giveaway
@@ -113,7 +104,29 @@ Now we just hit the blue button at the bottom of the page named **Create giveawa
 
 Now that we have an active giveaway, we can go back to the dashboard and see that it has been added to the list of the server's active giveaways.
 
-![](../../.gitbook/assets/GiveawaySampleDash.png)
+<figure><img src="../../.gitbook/assets/brave_Dl6itiplR1 (1).png" alt=""><figcaption></figcaption></figure>
+
+## Scheduling a Giveaway
+
+To schedule a giveaway, click the **Schedule** button and fill in the [giveaway details](giveaways.md#creating-a-giveaway) from above.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Unlike when creating a normal giveaway on the dashboard, when you schedule a giveaway you will set a starting date and a duration.
+
+{% hint style="warning" %}
+<mark style="color:$warning;">Free servers can only have 1 giveaway scheduled at a time.</mark>
+
+<mark style="color:$warning;">Premium servers can schedule an unlimited amount of giveaways.</mark>
+{% endhint %}
+
+### Repeating a Giveaway&#x20;
+
+If you would like to make your scheduled giveaway repeat, turn on the **Repeating** switch and you can select how often it should run.
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>This scheduled giveaway for example would repeat every week on Monday at 10:00.</p></figcaption></figure>
+
+The date and time that you set for the giveaway to repeat will be based on your timezone.
 
 ## <img src="../../.gitbook/assets/image (59).png" alt="" data-size="line"> Editing a Giveaway
 
@@ -130,3 +143,38 @@ For our giveaway, we will increase the required number of messages up to 100 fro
 Now you can just go ahead and click _**Edit giveaway**_. Now if you check your server, you will be able to see that the giveaway has changed.
 
 ![](../../.gitbook/assets/GiveawaySampleDCEdit.png)
+
+## Giveaway Roles
+
+* **Giveaway Blacklisted Roles** are roles that disallow any user with any of these roles from joining any giveaways.
+* **Giveaway Bypass Roles** are roles that allow any user with any of these roles to join any giveaway even if they do not meet the requirements.
+
+![](../../.gitbook/assets/GiveawayGeneralSettings.png)
+
+{% hint style="warning" %}
+<mark style="color:$warning;">Free servers can only have a maximum of 5 giveaway-blacklisted roles and 5 giveaway bypass roles.</mark>
+
+<mark style="color:$warning;">Premium servers can have an unlimited amount of giveaway-blacklisted roles and giveaway bypass roles.</mark>
+{% endhint %}
+
+## Giveaway Templates
+
+Giveaway Templates can be created to quickly create giveaways without having to fill in the details.
+
+To create a Template, click the **Create** button under **Templates Management**
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+When creating a template be sure that you fill in the the neccessary details, then when done you can create the template by clicking **Create**.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+You can also save a new template by creating a new giveaway then clicking **Save as Template** next to create.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+<mark style="color:$warning;">Free servers can only create 1 giveaway template.</mark>
+
+<mark style="color:$warning;">Premium servers can create an unlimited amount of giveaway templates.</mark>
+{% endhint %}

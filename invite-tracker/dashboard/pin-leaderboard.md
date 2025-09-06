@@ -25,4 +25,4 @@ This feature sends an automatic updating message leaderboard to the selected cha
 
 After we press save, Invite Tracker will instantly create and pin an invite leaderboard in the specified channel.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)

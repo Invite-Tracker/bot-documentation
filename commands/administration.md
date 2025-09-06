@@ -8,10 +8,11 @@ description: >-
 
 ## Invite Administration
 
-| Command                | Description                                                        |
-| ---------------------- | ------------------------------------------------------------------ |
-| `/deleteinvite <code>` | Deletes the specified invite code                                  |
-| `/syncinvites [@user]` | Synchronizes the server's invites with everyone or a specific user |
+| Command                                                                                                                     | Description                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| `/deleteinvite <code>`                                                                                                      | Deletes the specified invite code                                                                                   |
+| `/syncinvites [@user]`                                                                                                      | Synchronizes the server's invites with everyone or a specific user                                                  |
+| `/purge-invite-codes [purge-amount] [maximum-uses] [include-users \| exclude-users] [include-channels \| exclude-channels]` | Purge invite codes from your server, either every invite code or only ones that fall into the conditions you input. |
 
 {% hint style="danger" %}
 `/syncinvites` <mark style="color:$danger;">adds the uses of active invites in your server to the invite count of the bot. You should only run this command once (such as when adding the bot to your server), otherwise you will double the invites if run again.</mark>

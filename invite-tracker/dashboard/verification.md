@@ -77,14 +77,14 @@ The _verification channel_ of your server is the channel where the verification 
 ![](<../../.gitbook/assets/Verification Channel (1).png>)
 
 {% hint style="warning" %}
-<mark style="color:$warning;">Remember to give Invite Tracker enough permissions so it can post verification messages.</mark>
+<mark style="color:$warning;">Remember to give Invite Tracker the correct</mark> [<mark style="color:$warning;">permissions</mark> ](../../faq.md#what-are-the-required-permissions-for-invite-tracker)<mark style="color:$warning;">so it can post verification messages.</mark>
 {% endhint %}
 
 ## <img src="../../.gitbook/assets/premium.png" alt="" data-size="line"> Verification Custom Embed
 
 _Verification Custom Embed_ allows you to customize the embed for the button [verification level](verification.md#verification-level) option.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once enabled, you can customize what the embed looks like. The new embed is sent out when you click on the _Send Verification Panel_ button.
 
