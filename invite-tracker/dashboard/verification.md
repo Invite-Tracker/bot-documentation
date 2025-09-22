@@ -84,7 +84,7 @@ The _verification channel_ of your server is the channel where the verification 
 
 _Verification Custom Embed_ allows you to customize the embed for the button [verification level](verification.md#verification-level) option.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once enabled, you can customize what the embed looks like. The new embed is sent out when you click on the _Send Verification Panel_ button.
 

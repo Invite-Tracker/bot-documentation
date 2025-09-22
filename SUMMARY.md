@@ -18,6 +18,7 @@
   * [📊 Invite Tracking](invite-tracker/dashboard/invite-tracking.md)
   * [💬 Message Counting](invite-tracker/dashboard/message-counting.md)
   * [📌 Pin Leaderboard](invite-tracker/dashboard/pin-leaderboard.md)
+  * [📊 Pin Statistics](invite-tracker/dashboard/pin-statistics.md)
   * [🎉 Giveaways](invite-tracker/dashboard/giveaways.md)
   * [👋 Join, Join DM, and Leave Messages](invite-tracker/dashboard/join-join-dm-and-leave-messages/README.md)
     * [Variables](invite-tracker/dashboard/join-join-dm-and-leave-messages/variables.md)

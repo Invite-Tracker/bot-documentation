@@ -104,3 +104,9 @@ If you have checked all of the above, creating a new invite link should register
 ### I've checked all of these, and it still doesn't work!
 
 Please make sure you have double checked all of these possible reasons. If you have, we are always happy to assist you further with your inquiry in our [support discord](https://discord.gg/8RwBGuf).
+
+## Why are some roles missing from the role selector?
+
+If there are some roles missing in the role selector on your dashboard, it means Invite Tracker's role is not set high enough in the role hierarchy.
+
+To change this, head to your Server Settings -> Roles and drag the Invite Tracker role up above the roles you want to be able to select.

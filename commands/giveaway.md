@@ -10,6 +10,10 @@ A tutorial video on how giveaways work and how to set them up.
 
 ## Commands
 
+{% hint style="success" %}
+<mark style="color:$success;">You can now create giveaways inside a thread with the</mark> <mark style="color:$success;"></mark><mark style="color:$success;">`/giveaway create`</mark> <mark style="color:$success;"></mark><mark style="color:$success;">command!</mark>
+{% endhint %}
+
 <table><thead><tr><th width="342.3896176132662">Command</th><th>Description</th></tr></thead><tbody><tr><td><code>/giveaway create &#x3C;prize name> &#x3C;duration> &#x3C;winner amount> &#x3C;#channel></code></td><td>Creates a giveaway using the specified information. See the tip below on how to format the duration.</td></tr><tr><td><code>/giveaway delete &#x3C;message id></code></td><td>Deletes a specified giveaway</td></tr><tr><td><code>/giveaway end &#x3C;message id></code></td><td>Ends a specified giveaway</td></tr><tr><td><code>/giveaway list</code></td><td>Lists all of the server's currently active giveaways and their message id's</td></tr><tr><td><code>/giveaway reroll &#x3C;message id></code></td><td>Chooses new winners for the specified giveaway</td></tr><tr><td><code>/giveaway scheduled</code> </td><td>Lists all of the server's scheduled giveaways</td></tr><tr><td><code>/giveaway templates</code> </td><td>Lists all of the server's giveaway templates</td></tr></tbody></table>
 
 {% hint style="info" %}

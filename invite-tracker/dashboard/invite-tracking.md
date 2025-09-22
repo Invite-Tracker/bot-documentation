@@ -56,9 +56,9 @@ This is where you can hide users from the invites leaderboard using their user I
 
 ## Invite Label
 
-Invite Labels allow you to label specific invite codes to track where members are joining from.
+Invite Labels allow you to label specific invite codes to track where members are joining from. You may also assign a role upon them joining.
 
-<figure><img src="../../.gitbook/assets/it_invitelabel.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/InviteLabelRev.png" alt=""><figcaption></figcaption></figure>
 
 You can setup an invite label by pasting in your invite link or code (e.g discord.gg/someinvite or someinvite), and assign any text label you'd like.
 

@@ -83,6 +83,12 @@ _The Highest Mode_ decides whether users keep all of the reward roles they have 
 
 <div align="center"><img src="../../.gitbook/assets/mc_highestmode.png" alt=""></div>
 
+## Reward Role Announcements
+
+_Reward Role Announcements_ allows the bot to send a message when the user reaches a reward role to the same channel or the selected channel.
+
+<figure><img src="../../.gitbook/assets/mc_rewardrolemsga.png" alt=""><figcaption></figcaption></figure>
+
 ## Reward Roles
 
 A _reward role_ is a role that is assigned to a user when they have sent a certain amount of messages.
